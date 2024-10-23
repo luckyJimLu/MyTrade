@@ -1,5 +1,4 @@
 # 资料
 
-https://drive.google.com/drive/folders/1--JeVeBhu3AerXYxQ86dlw13qT2H0T4l
+https://docs.google.com/document/d/10EGod2rVN8tcsUaSITG5_KJ3djsLGesbZqemJk2lhng/edit?usp=drivesdk
 # 书籍
-https://drive.google.com/file/d/182vWM4WM_c8HNU9S52jC7Hll36APU9dZ/view?usp=drivesdk
