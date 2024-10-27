@@ -3,3 +3,4 @@
 [交易课程](https://docs.google.com/document/d/10EGod2rVN8tcsUaSITG5_KJ3djsLGesbZqemJk2lhng/edit?usp=drivesdk)  
 [价格行为学](https://docs.google.com/document/d/1waj62U6VGg9hvjFohnRZ7OJTw9qg8qAB4IkJzAv58Qk/edit?usp=sharing)  
 [AL Brooks交易行为课程](https://docs.google.com/document/d/100MVqsMciGCj0XHUU1Tg0Jlgpq1LOGZ-Dy4Mv1cpMLY/edit?usp=sharing)
+[每日行情](https://www.brookstradingcourse.com/analysis/bitcoin-fade-bulls-70k/)
