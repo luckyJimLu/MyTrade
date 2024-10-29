@@ -19,4 +19,7 @@
 [投资额者情绪调查](https://en.macromicro.me/charts/20828/us-aaii-sentimentsurvey)   
 [雅虎财经](https://tw.stock.yahoo.com/)   
 [对冲基金仓位](https://hedgefollow.com/)    
+[机构投资者追踪](https://www.dataroma.com/m/home.php)    
+[Al brooks blog](https://www.brookstradingcourse.com/price-action-trading-blog/)   
+
 
