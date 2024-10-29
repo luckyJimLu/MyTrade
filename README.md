@@ -11,3 +11,6 @@
 [TIGER GLOBAL MANAGEMENT LLC](https://13f.info/manager/0001167483-tiger-global-management-llc)   
 [Scion Asset Management, LLC](https://13f.info/manager/0001649339-scion-asset-management-llc)   
 [SOROS FUND MANAGEMENT LLC](https://13f.info/manager/0001029160-soros-fund-management-llc)   
+# 财经新闻
+[路透社](https://www.reuters.com/world/china/)   
+[彭博社](https://www.bloomberg.com/asia)   
