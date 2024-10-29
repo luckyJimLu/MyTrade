@@ -14,3 +14,9 @@
 # 财经新闻
 [路透社](https://www.reuters.com/world/china/)   
 [彭博社](https://www.bloomberg.com/asia)   
+# 股市动态
+[股市热力图](https://finviz.com/map.ashx?t=sec_all)   
+[投资额者情绪调查](https://en.macromicro.me/charts/20828/us-aaii-sentimentsurvey)   
+[雅虎财经](https://tw.stock.yahoo.com/)   
+[对冲基金仓位](https://hedgefollow.com/)    
+
