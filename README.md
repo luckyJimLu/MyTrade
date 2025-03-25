@@ -25,4 +25,6 @@
 [Al brooks blog](https://www.brookstradingcourse.com/price-action-trading-blog/)   
 
 
-https://drive.google.com/file/d/1yxtT26ymm2BW16otaIu5gOWkSVGiYt2T/view?usp=drivesdk
+[百科](https://drive.google.com/file/d/1yxtT26ymm2BW16otaIu5gOWkSVGiYt2T/view?usp=drivesdk)  
+
+[百科全书](https://docs.google.com/spreadsheets/d/1PdaOmy6TtRlOBhqMsf_EjgrWd5apdofe/edit?usp=drivesdk&ouid=103467377355233628522&rtpof=true&sd=true)
