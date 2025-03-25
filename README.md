@@ -25,3 +25,4 @@
 [Al brooks blog](https://www.brookstradingcourse.com/price-action-trading-blog/)   
 
 
+https://drive.google.com/file/d/1yxtT26ymm2BW16otaIu5gOWkSVGiYt2T/view?usp=drivesdk
