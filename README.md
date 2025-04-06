@@ -23,4 +23,4 @@
 [对冲基金仓位](https://hedgefollow.com/)    
 [机构投资者追踪](https://www.dataroma.com/m/home.php)    
 [Al brooks blog](https://www.brookstradingcourse.com/price-action-trading-blog/)   
-[百科全书](https://docs.google.com/spreadsheets/d/15PyPyJnVv0aUb3ABe9iva8BcEH_Mw284qbERkwr-jtQ/edit?usp=sharing)
+[百科全书](https://docs.google.com/document/d/1LFLhpixgRIkNwYUPGnIBVLGur4Qj_hEYnN3u20ZHojM/edit?tab=t.jzrih67cwgw4#heading=h.5pdu344chjh0)
