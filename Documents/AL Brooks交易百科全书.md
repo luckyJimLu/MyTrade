@@ -61,23 +61,23 @@
 
 双重底下方突破(BO)失败（第二个低点可能在第一个低点处、之上或之下）
 
-![image-20250406135716004](./AL Brooks交易百科全书.assets/image-20250406135716004-3919039-3919043.png)
+![image-20250406135716004](https://github.com/luckyJimLu/MyTrade/blob/main/Documents/AL%20Brooks%E4%BA%A4%E6%98%93%E7%99%BE%E7%A7%91%E5%85%A8%E4%B9%A6.assets/image-20250406135716004-3919039-3919043.png)
 
 楔形
 
-![image-20250406135747492](AL Brooks交易百科全书.assets/image-20250406135747492.png)
+![image-20250406135747492](https://github.com/luckyJimLu/MyTrade/blob/main/Documents/AL%20Brooks%E4%BA%A4%E6%98%93%E7%99%BE%E7%A7%91%E5%85%A8%E4%B9%A6.assets/image-20250406135747492.png)
 
 双重底回撤
 
-![image-20250406135951579](AL Brooks交易百科全书.assets/image-20250406135951579.png)
+![image-20250406135951579](https://github.com/luckyJimLu/MyTrade/blob/main/Documents/AL%20Brooks%E4%BA%A4%E6%98%93%E7%99%BE%E7%A7%91%E5%85%A8%E4%B9%A6.assets/image-20250406135951579.png)
 
 高低点双重底(HL DB)下方突破(BO)失败
 
-![image-20250406140032905](AL Brooks交易百科全书.assets/image-20250406140032905.png)
+![image-20250406140032905](https://github.com/luckyJimLu/MyTrade/blob/main/Documents/AL%20Brooks%E4%BA%A4%E6%98%93%E7%99%BE%E7%A7%91%E5%85%A8%E4%B9%A6.assets/image-20250406140032905.png)
 
 三角形
 
-![image-20250406140127621](AL Brooks交易百科全书.assets/image-20250406140127621.png)
+![image-20250406140127621](https://github.com/luckyJimLu/MyTrade/blob/main/Documents/AL%20Brooks%E4%BA%A4%E6%98%93%E7%99%BE%E7%A7%91%E5%85%A8%E4%B9%A6.assets/image-20250406140127621.png)
 
 
 
