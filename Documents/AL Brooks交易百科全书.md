@@ -1,14 +1,16 @@
-## Classifications: A to B
+## 分类: A to B
 
-## 1、如何进场，设置止损与退出
+## 1. 如何进场，设置止损与退出
 
 ### 1.1 等待强势信号K线，使用合适的保护性止损。
 
-交易者在大多数交易中应使用止损单入场，以提高盈利概率。具体操作时，需等待明确的信号柱出现。
+[参考链接](https://docs.google.com/document/d/1LFLhpixgRIkNwYUPGnIBVLGur4Qj_hEYnN3u20ZHojM/edit?tab=t.jzrih67cwgw4#bookmark=kix.tum9y7td1ke3)
 
-**卖出时**，应等待价格跌破一根收盘价接近低点的阴线，并在其下方卖出；**买入时**，则需等待一根收盘价接近高点的阳线，并在该柱线上方买入，而不是仅仅在首个出现阳线实体的柱线上方入场。这种方法有助于过滤虚假信号，增强交易的可靠性。
+交易者在大多数交易中应使用止损单入场，以提高盈利概率。具体操作时，需等待明确的信号K出现。
 
-将保护性止损设置在反转形态的稍外侧。例如，如果买入信号柱是当前低点，则将止损设在该K线下方。  如果买入信号柱是多根K线反转形态中的第2根、第5根甚至第6根K线，且第一根K线的低点更低，那么止损应设在最低那根K线的下方。
+**卖出时**，应等待价格跌破一根收盘价接近低点的阴线，并在其下方卖出；**买入时**，则需等待一根收盘价接近高点的阳线，并在该K线上方买入，而不是仅仅在首个出现阳线实体的K线上方入场。这种方法有助于过滤虚假信号，增强交易的可靠性。
+
+将保护性止损设置在反转形态的稍外侧。例如，如果买入信号K是当前低点，则将止损设在该K线下方。  如果买入信号K是多根K线反转形态中的第2根. 第5根甚至第6根K线，且第一根K线的低点更低，那么止损应设在最低那根K线的下方。
 
 在阴线收盘价位于或接近其最低点的下方5个点位处进场（通常有多个合适的选择）。初始保护性止损设置在反转形态的高点上方，或重要波段高点（LH）上方，无论你选择哪个进场点。
 
@@ -27,11 +29,11 @@
 1. 关于交易频率的建议：
    初级交易者应当专注于波段交易，并以波段交易为主。这意味着他们通常每天进行1-3笔交易。当交易者能够持续稳定盈利后，可以增加到每天3-10笔交易，此时也可以适当加入一些短线交易策略。
 2. 关于交易模式的分类：
-   基于这个理念，我创建了一个专门为波段交易者设计的模式分类系统。每个模式都有4种变体：买入、卖出、买入失败和卖出失败。大约100种基础模式×4种变体=共400个分类单元。当交易者识别出当前市场的走势模式时，可以参考该模式的历史案例来预判后续可能的走势发展。
+   基于这个理念，我创建了一个专门为波段交易者设计的模式分类系统。每个模式都有4种变体：买入. 卖出. 买入失败和卖出失败。大约100种基础模式×4种变体=共400个分类单元。当交易者识别出当前市场的走势模式时，可以参考该模式的历史案例来预判后续可能的走势发展。
 
 （注：swing trade指持仓数小时至数日的波段交易；scalp指持仓几分钟至数小时的超短线交易）
 
-## 2、基本：灵活且对任何事开放
+## 2. 基本：灵活且对任何事开放
 
 ### 2.1 波段交易者与短信交易者
 
@@ -39,13 +41,13 @@
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | **成功的波段交易通常至少需要满足：** 可能短暂如单根大实体K线 通常不要求至少2根大K线或10根K线组合 预期盈利幅度通常需突破震荡区间，且至少达到平均K线幅度的3倍 盈利目标至少是短线交易的2倍，且至少是风险的2倍 最好采用突破单（stop order）入场；等待重大反转或强势突破信号出现才入场；成功概率至少40%（避免逆势交易） 这意味着多数交易会在小盈小亏范围内波动。 | **成功的短线交易：** 盈利目标通常至少达到平均K线高度 通常为1-2倍风险回报比；因此需要大于70%的胜率来弥补不利的风险回报比；盈利约为日均波动幅度的5%-10% 通常持续1-5根K线，可能包含1-2根小幅回调K线；可通过放宽止损间距和分批建仓提高胜率；约半数情况采用限价单（limit order）入场；避免在强势趋势中逆势操作；初期走势通常迅猛，但一旦不及预期应立即平仓。 |
 
-### 2.2 所有交易的三项基础结构：楔形、双顶/底、突破
+### 2.2 所有交易的三项基础结构：楔形. 双顶/底. 突破
 
 楔形底：第2腿超跌，形成短暂跌破趋势线(假突破)，形成空头陷阱。随后快速反弹至楔形通道。
 
 双底：LL DB, 在跳空向上，第二个低点可以是完美的双底，或高于，低于前一个低点。
 
-多头突破:  连续相对较大的多头柱线，带有小尾巴，收盘价接近其高点，并且高于交易区间和EMA，第2根K线的实体完全位于EMA之上。
+多头突破:  连续相对较大的多头K线，带有小尾巴，收盘价接近其高点，并且高于交易区间和EMA，第2根K线的实体完全位于EMA之上。
 
 楔形顶：第3退超出趋势线，
 
@@ -53,543 +55,854 @@
 
 空头突破：连续的相对较大的熊市K线，尾部很短，收盘价接近其最低点，并且低于交易区间和EMA（指数移动平均线）。 第二根K线的实体完全低于EMA。
 
-### 2.3 三重底与三重顶：形态变体与不完美性
+### 2.3 三重底：形态变体与不完美性
 
  完美三重底：三次向下推动，通常导致回调，任何三推模式可以认为是三重底的变体。
 
 头肩型（截断楔形）：如果市场尝试2次或3次朝一个方向运行但失败了，它通常会转向另一个方向。
 
-双重底下方突破(BO)失败（第二个低点可能在第一个低点处、之上或之下）
+双重底下方突破(BO)失败（第二个低点可能在第一个低点处. 之上或之下）
 
-![image-20250406135716004](AL Brooks交易百科全书.assets/image-20250406135716004-3919039-3919043.png)
+| 形态                                | 图示                                                         |
+| ----------------------------------- | ------------------------------------------------------------ |
+| 楔形                                | ![image-20250406135747492](AL Brooks交易百科全书.assets/image-20250406135747492.png) |
+| 双重底回撤                          | ![image-20250406135951579](AL Brooks交易百科全书.assets/image-20250406135951579.png) |
+| 高低点双重底(HL DB)下方突破(BO)失败 | ![image-20250406140032905](AL Brooks交易百科全书.assets/image-20250406140032905.png) |
+| 三角形                              | ![image-20250406140127621](AL Brooks交易百科全书.assets/image-20250406140127621.png) |
 
-楔形
+### 2.4 三重顶：变体与不完美性
 
-![image-20250406135747492](AL Brooks交易百科全书.assets/image-20250406135747492.png)
-
-双重底回撤
-
-![image-20250406135951579](AL Brooks交易百科全书.assets/image-20250406135951579.png)
-
-高低点双重底(HL DB)下方突破(BO)失败
-
-![image-20250406140032905](AL Brooks交易百科全书.assets/image-20250406140032905.png)
-
-三角形
-
-![image-20250406140127621](AL Brooks交易百科全书.assets/image-20250406140127621.png)
+| 形态                                                         | 图表                                                         |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 完美三重顶<br />完美形态并不多见，许多都是完美模式的变体。<br />三推向上通常导致反转，任何3推模式可能认为是三重顶的变体 | ![image-20250407121333871](AL%20Brooks%E4%BA%A4%E6%98%93%E7%99%BE%E7%A7%91%E5%85%A8%E4%B9%A6.assets/image-20250407121333871.png) |
+| 头和肩(截断的楔形)<br />                                     | ![image-20250407121635340](AL%20Brooks%E4%BA%A4%E6%98%93%E7%99%BE%E7%A7%91%E5%85%A8%E4%B9%A6.assets/image-20250407121635340.png) |
+| 双顶回调                                                     | ![image-20250407121649185](AL%20Brooks%E4%BA%A4%E6%98%93%E7%99%BE%E7%A7%91%E5%85%A8%E4%B9%A6.assets/image-20250407121649185.png) |
+| 双顶上失败的突破(第2高点可在或高于，低于第1高点)             | ![image-20250407121701018](AL%20Brooks%E4%BA%A4%E6%98%93%E7%99%BE%E7%A7%91%E5%85%A8%E4%B9%A6.assets/image-20250407121701018.png) |
+| 双顶上失败的突破(第2高点位于第1高点之下)                     | ![image-20250407121714109](AL%20Brooks%E4%BA%A4%E6%98%93%E7%99%BE%E7%A7%91%E5%85%A8%E4%B9%A6.assets/image-20250407121714109.png) |
+| 楔形                                                         | ![image-20250407121723660](AL%20Brooks%E4%BA%A4%E6%98%93%E7%99%BE%E7%A7%91%E5%85%A8%E4%B9%A6.assets/image-20250407121723660.png) |
+| 三角形                                                       | ![image-20250407121733776](AL%20Brooks%E4%BA%A4%E6%98%93%E7%99%BE%E7%A7%91%E5%85%A8%E4%B9%A6.assets/image-20250407121733776.png) |
 
 
 
-Triple Bottoms: Variations, Rarely Perfect
-Triple Tops: Variations, Rarely Perfect
-Always In Long
-Always In Long: Can Be Buy The Close or Buy Pullback
-Consecutive Bull Bars: One Is Big so Always In Long
-Consecutive Bull Bars: One Is Big so Always In Long
-Always In Long: From One Exceptionally Big Bull Bar
-Big Gap Down: Always In Long on 1st Bar
-Always In Long: With Just One Huge Bull Bar
-Surprise Bar: Always In Long from 1 Big Surprise Bar
-Always In Long (AIL): Bulls Buy above Flags
-Parabolic Wedge Bottom: Then LL MTR and Always In Long
-If Exit, but Still AIL: Buy Again above Bull Bar
-Gap Down: Became Always In Long While below EMA
-Always In Long: After 2 Big Bull Bars
-Always In Long, 3 Bear Bars Were Bull Flag
-Always In Long: 3 Bear Bars Formed Bull Flag
-Always In Short
-Always In Short: Can Be Buy The Close or Buy Pullback
-Consecutive Bear Bars: One Is Big so Always In Short
-Consecutive Bear Bars: One Is Big so Always In Short
-Always In Short: If Exit, S below Bear Bar Closing near Its L
-Always In Short: B Setups Are Low Probability
-Always In Short: If Exit, S again below Bear Bar in PB
-Always In Short: After Bull Trap on Open
-Always In Short: From 1 Huge Bear Bar
-Always In Short: From 1 Big Bear Bar
-Always In Short: From 4 Small Bear Bars
-Always In Short: Still above EMA
-Always In Short, 3 Bull Bars Were Bear Flag
-Always In Short: 3 Bull Bars Were Bear Flag
-All Time High Buy Climax
-Parabolic Wedge at All-Time High: Fast 10% Correction
-Parabolic Wedge at All-Time H (ATH): Then Endless PB
-Bear BO below Bull Flag With Follow-Through: MM down
-All-Time H (ATH): Parabolic Wedge Top, Then Endless PB
-All-Time High (ATH): PW Top, Then Endless PB
-ATH: Failed Parabolic Wedge Top
-Small PB Bull Trend: Many Dojis, but Gaps
-Bankruptcy
-Bankruptcy Risk: Great Trader’s Equation, but Don’t Buy
-Bankruptcy Risk: Great Trader’s Equation, Consider Buying
-Bar Counting
-Bear Flag: Variations, Rarely Perfect
-Bull Flag: Variations, Rarely Perfect
-H1 and H2 B Setups: PB in Bull Trend or TR
-High 3 Bull Flag: Wedge When Tilted Down
-High 3 Bull Flag: Wedge or Triangle
-Low 1 and Low 2 in Bear Trend or TR: S below Bear Bar
-Triangle or Wedge in Bear: Low 3 Bear Flag
-Consecutive Complex Bottoms: Two Legs Up Likely
-Consecutive Low 2 Tops: Low 4 Top
-Consecutive Tops: Wedge, Then Low 2
-Low 4: Expect 2 Legs and 10 Bars Sideways to Down
-Bar Numbers (5-min Charts)
-Odds of a New H or L: Decrease Later in Day
-Big Bear Bar Closing on its L: 30% Chance it Will Be the H
-BO below 1st 18 Bars: Probably No New H Today
-BO of 18 Bar Range: Only 10% Chance of Opposite BO
-Bar 39: Midday Reversal Down from Wedge Top
-Midday Reversal Up: Here, Bar 41
-Big Down, Big Up
-Big Down, Big Up: 1t One Failed to Create TR
-Big Down, Big Up: Big Confusion, so TR Most Likely
-Big Up, Big Down: Big Confusion and Trading Range
-Big Down, Big Up: Big Confusion and Trading Range
-Big Down, Big Up: Closed Near Open and Was Doji Day
-Big Down, Big Up, Big Down
-Bear Trend Resumption: After Reversal up from S Climax
-Bear Trend Resumption: After Rally to New H
-Trend Reversal Down: After Trend Reversal Up
-Deep PB: Below Bottom of Bull Trend Reversal
-Trend Resumption Down: Bull Channel Was Bear Flag
-Deep PB: To above Top of Bear BO
-S The Close: Deep PB so TR Day Likely
-Trend Resumption Down: After Weak Bull Channel and DT
-Big Round Number
-Big Round Number: Resistance in Bull Trend
-Big Round Number: Rally Evolved into Trading Range
-Big Round Number: Reversed Down
-Big Round Number: Support in Futures Market
-Big Round Number: Support in Forex Market
-Big Round Number: Support in Stock Market
-Big Round Number: Support in Stock Market
-Support and Resistance on Daily Chart: 4000 Big Round Number
-Bull Trend Began Before Bear Trend Ended
-Bull Trend: Began before Bear Trend Ended
-Bull Channel: 1st Leg Up Formed before End of Bear Trend
-Bull Trend Began before Bear Trend Ended
-Bear Flag: 1st Leg Up Began before End of Bear Trend
-Bear BO of 18 Bar Range
-Early H or L of Day: Every New Bar Increases Probability
-Small Range: If 5 Points or Less, Expect BO
-Late BO below 1st 18 Bars: Big Bear Reversal Day
-2nd Leg Trap Down: Failed, Got Trend Resumption Down
-18 Bar Range: Sell Strong Reversal Down from Top
-BOM on Open: S BO below Reversal Up for MM Down
-Late BO below 15t 18 Bars: Broad Bear Channel
-Failed BO below 18 Bar Range: Bear Trend Resumption
-BO below 18 Bar Range: S BO and S PB
-Reversal Up at Bar 18: Strong Selloff so Minor Reversal
-Reversal Down Around Bar 18: S for Possible H of Day
-BO of 18 Bar Range: Also BO Mode S
-BO below 18 Bar Range: Trading Range
-BO below 18 Bar Range: Strong Rally, Then New L
-Failed Bear BO of 18 Bar Range
-Buy The Close: Deep PB so TR Day Likely
-Failed BO below 18 Bar Range: Possible L of Day
-Failed BO below 18 Bar Range: TR Day
-Late BO below 18 Bar Range: Reversed Up
-BO below 18 Bar Range: After Test of H of Range
-Failed BO below 18 Bar Range: Bear Trend Resumption
-BO below 18 Bar Range: Strong Rally, Then New L
-Surprise BO: Surprise Bear Bar, Expect 2nd Leg Down
-BO below 18 Bar Range: 1 Tick Failed BO
-BO Below Then above 18 Bar Range
-BO below 18 Bar Range: Reversed Up to above 18 Bar Range
-Failed BO below 18 Bar Range: Then BO Above
-Failed BO below 18 Bar Range: Then Failed BO Above
-BO below 18 Bar Range: Failed, Then BO above
-Failed BO below 18 Bar Range: Huge BO Above
-Failed BO below 18 Bar Range: Reversed to BO Above
-BO below Range of 1st 18 Bars: Reversed Up, Got Bull BO
-BO Far below 18 Bar Range: Reversal Up to above Range
-Small 18 Bar Range: Probable BO and MM Up or Down
-Failed BO below 18 Bar Range: Late BO to New H
-BO below 18 Bar Range: BO below and then Above
-Failed BO below 18 Bar Range: Then BO above Range
-BO below 18 Bar Range: Strong Reversal Up for L of Day
-BO below 18 Bar Range: Failed, Wedge Bottom
-Big 18 Bar Range: More Likely TR Day
-BO below 18 Bar Range: Reversal Up to New H
-Failed BO below 18 Bar Range: Strong Wedge Bottom
-BO of Range of 1st 18 Bars: Reversed Up
-Failed BO below 18 Bar Range: The Failed BO above Range
-BO of 18 Bar Range, below, above, and Back Below
-BO of 18 Bar Range: Below, above, and Then New L
-BO of 18 Bar Range: BO below, above, and Below
-BO of 18 Bar Range: Above, below, above, Then below Again
-Failed BO below 18 Bar Range: Failed to Get 3rd BO
-Bull BO of 18 Bar Range
-Test of L of 18 Bar Range: Reversal Up
-Bar 18 Reversal: Reversed up at Bar 17
-Reversal Up from Around Bar 18: Possible L of Day
-BOM on Open: H or L in 1st 18 Bars in 90% of Days
-18 Bar BO: Reversal Attempt Failed and Became oo Bull Flag
-BO above 1st 18 Bars: Measured Move Up
-F BO 18 Bar Range: Became High 1 Bull Flag
-B BO of 18 Bar Range: Gap Down, Then Outside Up Day
-BO above 18 Bar Range: Deep PB
-BO above Range of 1st 18 Bars: Bull Trend or TR Likely
-BO above 18 Bar Range: After LL MTR
-BO of 1518 Bars: Often Goes Sideways
-18 Bar BO: Small Day so Sideways Likely
-18 Bar BO and BO Mode: B BO and PB
-BOM on Open: H or L in 1st 18 Bars in 90% of Days
-18 Bar Range: Late Bull BO
-BO above 18 Bar Range: Failed, 8 Bars without Bull Body
-BO above 18 Bar Range: Bear Reversal Day
-BOM on Open: Many New Highs and Lows
-BO of 18 Bar Range: TR Day Became Bull Trend Day
-Failed Bull BO of 18 Bar Range
-BO above 18 Bar Range: Failed, Then Deep PB
-Bar 18 Reversal Up: Wedge Bottom
-Failed BO above 18 Bar Range: S Reversal Down
-Failed 18 Bar Range BO: S below Bear Bar Closing near L
-Gap Up: Reversal Down, Then TR
-BO above 18 Bar Range: Failed
-BO above Range of 1st 18 Bars: Failed
-Late BO above 18 Bar Range: Failed
-DB after 18th Bar: Small Range Day, Late Failed BO
-BO above Then below 18 Bar Range
-Failed BO above 18 Bar Range: Got Bear BO
-Bear BO and Follow-Through: MM Down
-Failed BO above 18 Bar Range: BO Below
-Failed BO 18-Bar Range: Up and Down
-18 Bar Range: BO above, and Then below after FOMC
-BO above 18 Bar Range: Reversed and Broke Below
-BO above 18 Bar Range: Then BO Below
-Failed BO above 18 Bar Range: BO below Bottom
-Failed BO above 18 Bar Range: Then BO Below
-Bull BO above 15t 18 Bars: Reversed Down to New L
-BO above 18 Bar Range: Small Range, Got New L
-BO of 18 Bar Range: Failed BO Up and Down
-BO above 18 Bar Range: Reversal to New L
-BO 18 Bar Range: Failed and Then Opposite BO
-BO 18 Bar Range: Failed and Then Opposite BO
-BO above Range of 15t 18 Bars: Failed, Then BO Below
-BO above 18 Bar Range: Reversed Down, Broke Below
-BO above 18 Bar Range: Reversed down and Got BO Below
-Failed BO above 18 Bar Range: Reversed Down to New L
-Failed BO above 18 Bar Range: Broke Below
-BO above H of 1st 18 Bars: Failed, S New L of Day
-Failed BO of 18 Bar Range: 2nd Leg Trap
-BO 18 Bar Range: Failed and Then Opposite BO
-BO of 18 Bar Range, above, below, and Back Above
-BO of Range of 1% 18 Bars: Above, below, and above Again
-Failed BO of 18 Bar Range: Then, BO below and Above
-18 Bar Range: BO above, below, and Back Above
-New H Failed Twice: New L also Failed Twice
-No BO of 18 Bar Range
-BO of 118 Bar Range: Did Not Happen for 2 Days
-DB HL MTR: After HL Minor Reversal
-18 Bar Range: No BO, Reversed Up at Bar 17
-Bull Breakout
-Bull Trends: Relative Strength
-Bull Breakout: Above Trading Range Open
-Bull Breakout: Midday Reversal and Bull Breakout
-Trading Range: Late Bull Breakout
-Bull Breakout: Above Trading Range, MM Up
-Bull Breakout: Consecutive Closes above Resistance
-Bull Breakout: MM Up
-Bull Breakout: MM Up
-Bull Breakout: Then Small Pullback Bull Trend
-Bull Breakout above Triangle: Small Pullback Bull Trend
-Breakout above Bull Channel and Small Range Day: MM Up
-Bull Breakout: Big Tail but Close above Midpoint
-Flag, Bull: Wedge Bull Flag Began before End of Bull Trend
-Strong Bull Breakout: Bull Trend From The Open
-Failed Bull Breakout
-Bull Trap: Trapped Out of Good Long or into Bad Long
-Bull Surprise BO that Fails: Common Type of Bull Trap
-Reversal Up from Bear BO: 9-Tick Trap, Low 1 Bear Flag
-Bear Breakout
-Bear Trends: Relative Strength
-Big Bear Breakout: Bear Trend
-Trading Range Open: Then Bear Breakout
-Bear Breakout: But Not Consecutive Big Bear Bars
-Bear Breakout and Follow-Through: Bear Trend
-Bear Breakout: Below Bull Flag
-Bear Breakout: Endless Pullback Grew into Bear Trend
-Bear Breakout and Follow-Through: Expect 2nd? Leg Down
-Bear Breakout: In Endless Pullback from Strong Rally
-Strong Bear Breakout: Many Consecutive Bear Bars
-Bear Breakout: Below EMA and Bull Channel
-Bear Trading Range Day: Breakout below Trading Range Open
-Failed Bear Breakout
-Failed Bear Breakout: It is Bear Trap
-Bear Surprise BO That Fails: Common Type of Bear Trap
-Bad Follow-Through: Failed Bear Breakout
-Bear Breakout Failed: Bear Trap
-Bear Breakout Failed: Exhaustive Sell Climax with ii
-Breakout below Wedge Bottom Failed: LL MTR
-Failed Bear BO: Late Bear Trap
-Bear BO, Then 2 Legs Down
-BO, Bear: 60% Chance of MM Down
-Bear BO and Follow-Through: MM down
-Strong Bear BO: 2nd Leg Down Likely
-Breakout: Small Bear Breakout below a Small Bear Breakout so Wedge Bottom
-Small Breakout below Small Breakout: Wedge
-Breakout: Small Bear Breakout below a Small Bear Breakout, but Wedge Bottom Failed
-Small Bear BO of Small BO: Failed
-Small BO below Small BO: Wedge Bottom
-Small BO of Small BO: Failed Wedge Bull Flag
-Breakout: Small Bull Breakout above a Small Bull Breakout so Wedge Top
-Small BO above Small BO: Wedge Top
-Small BO of Small BO : Failure
-Small BO of Small BO: Failed
-Breakout: Small Bull Breakout above a Small Bull Breakout, but Wedge Top Failed
-SBO2 Small BO of Small BO : Failed Wedge Bear Flag
-BO Test in Bull Trend (PB to BO point)
-Breakout Test of Bad Buy Signal Bar: Bulls Bought Again
-Breakout Test: From Bull Breakout above Trading Range
-Breakout Test, Bear Trap: Broad Bull Channel
-Breakout Test: MM Up
-Breakout Test: MM Up
-Breakout Test: MM Up
-Breakout Test: Pulled Back below Breakout Point
-Breakout Test: Pullback below Ledge Top
-Breakout Test: Small Pullback Bull Trend
-Breakout Test: Stayed 1 Tick above Buy Signal Bar
-Breakout Test: Test of High of Bear Buy Signal Bar
-Breakout Test: Test of Top of Weak Buy Signal Bar
-Breakout Test: Top of Weak Buy Signal Bar
-Bad Buy Signal Bar: Magnet
-Breakout Test in Bull Trend: 3 Tests of Bull Entry Price
-Breakout Test: High of Bear Buy Signal Bar
-Breakout Test: Of Bad Buy Signal Bar
-Bad Buy Signal Bar: 70% Chance Its High Will Be Tested
-Breakout Test: Possible Measuring Gap
-BO Test: Measured Move Up
-Breakout Test: Possible Measured Move
-Breakout Test: Test of Entry Price
-BO Test: Measured Move Up
-BO Test: Buy above Bull Bar Closing near Its H
-Breakout Test: Rally Reached Much More than Measured Move Up
-Gap Up: BO Test
-BO Test: Could Not Hit Breakeven Stop
-BO Test: Double Bottom
-BO Test: 2nd Leg Trap in Small PB Bull Trend
-BO Test: PB to Top of Buy Signal Bar
-BO Test: Missed Breakeven Stop by 1 Tick so Perfect Test
-BO Test: L on Daily Chart L, and 5 Min H
-BO Test in Bull Trend (PB to BO Point), Failed and Reversed Down
-BO Test: Failed to Get above Bottom of Bad Sell Signal Bar
-BO Test in Bull: After Bull Resumes, S below BO
-BO Test in Bear Trend (Rally to BO point)
-Breakout Test: Gap Stayed Open so Strong Bears
-Breakout Test: MM Down
-Breakout Test: Small PB Bull Trend, Then LH MTR
-Breakout Test: Measured Move Down
-Breakout Test: Trend Resumption Down
-Breakout Tests: Formed Gaps in Small Pullback Bear Trend
-BO Test: Rally to BO Point Fails and Reverses Down
-BO Test in Bear Trend: Creates Gap or Body Gap
-Breakout Test: Test of Entry Price
-BO Test: Price: Where 1st Became Always In Short
-BO Test in Bear Trend (Rally to BO Point), Failed And Reversed Up
-BO Test in Bear: B BO Above
-Failed BO of TR
-BO, but No Follow-Through: Still in Now Bigger TR
-Failed Trending TR Day: Bear Reversal Day
-Trending TR Day Down: Gap between TRs Closed
-Bull BO
-Bull BO: Every Bull Trend Bar or Series of Bull Bars Is a BO
-Bull BO, Then 2 Legs Up
-Surprise Bull BO: Big Bear Bar Was Exhaustion Gap Bar
-Bull BO: Consecutive Strong Bull Bars so MM up Likely
-Breakout Mode
-Breakout Mode: 50-50 Market
-Breakout Mode: Minimum Needed Is 2 Reversals
-Breakout Mode: Trading Range of Any Duration
-Breakout Mode (BOM): Bulls and Bears are Equal
-BOM on Open: Many New Highs and Lows
-Breakout Mode: DB and MM Up
-BOM of 1st 18  Bars: Often Goes Sideways
-BO Mode: 1st BO Failed, as It Does 50% of Time
-BOM::Common on the Open, Here; after Gap /Down
-5 or More Reversals: Trading Range (TR) Open so BOM
-BOM: Common on the Open, Here, after Gap Up
-5 or More Reversals: Trading Range (TR) Open so BOM
-Bear Trend Began Before Bull Trend Ended
+## 3. 持续多头
+
+[参考链接](https://docs.google.com/document/d/1LFLhpixgRIkNwYUPGnIBVLGur4Qj_hEYnN3u20ZHojM/edit?tab=t.jzrih67cwgw4#bookmark=kix.pfkrxjg1srnr)
+
+### 3.1 持续做多：可选择收盘买入或回调买入
+
+窄幅牛市通道是买入收盘价
+
+- 这是最强的牛市趋势类型，交易者愿意在高点买入。-
+- “买入收盘价”意味着在牛市K线收盘价接近高点时立即买入，或在高于K线高点的止损位买入。
+
+**始终持有多头**意味着交易者预期价格上涨并会买入。当牛市趋势处于窄幅通道中时，它非常强劲，交易者甚至会在趋势高点买入。
+
+这就是一个“买入收盘价”的牛市趋势。当趋势较弱时，交易者更喜欢等待并买入回调，当他们认为牛市趋势将恢复时，在牛市K线收盘价接近其高点上方买入。
+
+更多的熊市K线和横盘交易，意味着牛市趋势不够强劲。
+
+仍然始终持有多头，但不再强劲到可以在趋势高点买入，因此不再是“买入收盘价”。
+
+最好等待回调，然后在牛市K线收盘价接近其高点上方买入。
+
+连续的牛市K线，其中至少有一根较大且收盘价接近高点，意味着始终持有多头（赔率有利于更高的价格）和“买入收盘价”的牛市趋势（最强的牛市趋势类型）。
+
+### 3.2 连续阳线：出现一根大阳线则持续做多
+
+1. 连续的多头K线开盘，其中一根较大（这里两根都很大），且收盘价接近其高点，因此始终持有多头。
+
+2. 在第2根K线高点上方买入。
+
+### 3.3 连续阳线：出现一根大阳线则持续做多
+
+1. 连续的牛市K线在开盘时出现，其中一根较大，且收盘价接近其高点，因此始终持有多头。
+2. 在第2根K线高点上方买入。
+3. 开盘时强劲走势中有 50% 会反转。
+
+### 3.4 持续做多：基于一根异常强势的大阳线
+
+1. 美联储公开市场委员会（FOMC）声明后，一根非常大的牛市K线（意外K线）出现，因此始终持有多头。 下一根K线是十字星，没有熊市实体，确认了牛市突破（没有熊市实体）。 
+
+2. 当牛市K线与其他K线相比异常大时，至少有 70% 的概率出现向上的测量移动，尤其是如果后续K线没有熊市实体。 也可能是交易区间（TR）日内的牛市上涨段。
+
+3. 熊市趋势不太可能出现。始终持有多头意味着在市场跌破上涨段低点之前，价格很可能上涨。有时一根大的牛市K线就足够了。但交易者通常希望下一根K线没有熊市实体（后续K线）。
+4. 第一根牛市K线上方买入收盘，买入50%回撤，在回调上方买入。
+
+### 3.5 大幅跳空低开：首根K线即触发持续做多
+
+1. 大幅跳空低开，但第一根K线出现令人惊讶的大牛市K线。即使低于 EMA 且大幅跳空低开，第一根K线也始终持有多头。
+
+2. 在K线高点上方买入，或在K线收盘价买入，或在牛市后续K线的收盘价买入。一旦后续K线出现牛市实体，大多数交易者认为应始终持有多头。
+
+### 3.6 持续做多：仅需一根巨型阳线即可确认
+
+1. 巨型阳线，因为惊讶K线，总是看多，即使是1根K线，买入收盘或在其上方买入。概率倾向于多头趋势或交易区间腿。
+2. 可以退出或卖出，然后再次买入。强势抛售，但是可能是交易区间，而不是空头趋势。期待多头腿，因此买入反转。
+
+### 3.7 意外K线：单根大阳线反转确立持续做多
+
+1. 巨大阳线，惊讶K线，低概率事件。60%~70%概率基于K线实体向上的测量移动。并且至少2个以上的腿，通常导致楔形顶。
+
+2. 空头试图进行第二腿牛市陷阱（突破交易区间失败）。
+   收盘价接近低点，是良好的卖出信号K线。
+   连续出现四根空头K线。
+3. 收盘价远高于左侧柱线，因此不是对交易区间顶部的测试。牛市突破成功的可能性比第二腿牛市陷阱更大。
+   当牛市K线异常大时，通常可以在 50% 回调处，挂限价单或在反转上涨时买入。
+   在尖峰和通道牛市趋势日中形成了牛市旗形。
+
+### 3.8 持续做多：突破旗形上方时多头买入
+
+1. 小回调多头趋势，买入H1，H2和楔形牛旗。期待1-3根K线的回调。当回调或暂停(内部K线)，在收盘在高点附近多头K线上方买入。
+
+2. 如果持续看多的多头退出，但是仍然是持续看多，他们将会在回调中多头K线上方买入。
+
+### 3.9 抛物线楔形底：然后LL MTR和持续做多
+
+1. 强势小反转
+2. LL MTR，仅3根K线之后持续做多。在从新低下反转向上弱抛售后，背景很好。并且3根多头K线都收盘于其高点。
+
+### 3.10 若出场后，仍符合AIL：在阳线上方重新买入
+
+1. 抛物线楔形顶，可能是当天的高点，在空头K线下方可以退出。
+
+2. K线收盘价高于中点，且不是小的牛市实体。良好的牛市K线，但对空头来说后续表现不佳。
+   仍然始终持有多头。如果已退出，多头应在牛市K线之上买入。
+   开盘跳空高开，但反弹疲软。（没有连续的大牛市柱线）。通常会进入数小时的窄幅交易区间。
+
+### 3.11 跳空低开：在EMA下方仍然为持续做多
+
+1. 前两根K线位多头K线，一个是大的多头K线，其收盘接近与高点。在第一根K线的高点上方买入，或者在第2根K线的收盘买入。
+2. 跳空低开，昨日低点失败的突破，趋势从开盘开始，多头趋势，买入收盘，多头微通道。因为第3根K线，持续做多，即使在EMA之下。
+3. 交易区间，因为是明日的BOM设置，期待趋势向上恢复，或趋势反转向下。
+
+### 3.持续做多：两根大阳线后确认趋势
+
+1. 从早期的抛售中，寻找买入反转向上，在第2根K线收盘，成为AIL
+2. 当背景对于反转时，很好，2根中等大小的多头K线收盘于其高点，可以反转市场至AIL。
+
+## 4. 持续多头, 3根空头K线为牛旗
+
+### 4.1 持续做多：三根空头K线形成的牛旗
+
+1. 开盘，8根连续多头K线很少见，强势买压。在收盘接近其高点的多头K线上方买入。
+2. 在买入高潮后，出现连续3根空头K线。
+3. 非常强势多头趋势，仍为AIL，H1牛旗，在收盘接近高点的多头K线上方买入。
+
+## 5. 持续做空
+
+### 5.1 持续做空：可考虑买入收盘或回调买入
+
+1. 连续空头K线，至少有一个大K线且收盘接近低点，意味着持续做空(概率更倾向于更低的价格)并且卖出收盘空头趋势(最强类型的空头趋势)
+2. 窄幅空头通道时卖出收盘，这是最强的空头趋势，并且交易者愿意在低点卖出。卖出收盘意味着只要空头K线收盘接近其低点，就会卖出，或止损单卖出当前K线的低点。
+3. AIS意味着交易者期待更低的价格，并且原因卖出。当位于窄幅通道的空头趋势时，它很强，并且加以这愿意卖出市场价，即使在趋势的低点。这就是卖出收盘空头趋势，当其变得不是很强时，交易者喜欢等待并且卖出回调，此时，他们相信空头趋势会恢复。卖出收盘与低点的空头K线的下方。
+4. 大多数空头K线和整理交易，因此并不像强势空头趋势。仍然是AIS，但是足够强势在低点卖出，所以不再卖出收盘，最好等待回调，并且卖出收盘低点附近的空头K线的下方。
+
+### 5.2 连续下跌K线：出现一根大阴线则保持空头
+
+开盘连续空头K线，带有大K线和收盘于接近低点，因此持续看空。在第二根K线的下方卖出。
+
+开盘连续空头K线，带有大K线和收盘于接近低点，因此持续看空。在第二根K线的下方卖出，但是卖出信号未触发。反转向上，因此卖出高潮并且空头陷阱。
+
+开盘强势移动50%的概率会发生反转。
+
+### 5.4 持续做空：若离场，则在下跌K线收盘价附近其低点下方做空
+
+1. 强势空头突破，因此AIS。
+2. 始终做空意味着在市场突破上涨段顶部之前，价格很可能下跌。有时一根大的熊市K线线就足够了。但交易者通常希望下一根K线没有牛市实体（后续K线）。当K线不是特别大时，就像这里一样，一些交易者需要 3 根或更多的熊市K线，尤其是收盘价接近其低点，然后才能得出熊市趋势可能开始的结论。
+3. 如果在多头K线之上退出，但是仍然AIS，在空头K线的低点下方再次卖出，特别是如果收盘在低点附近。
+
+### 5.5 持续做空：买入设置是低概率的
+
+1. 多头K线收盘在其高点，并不是足够原因买入的。
+2. 窄幅空头通道，因此强势空头趋势，即使抛物线楔形底，仅寻求卖出，多头K线收盘在其高点买入理由不足
+3. 如果在强势多头K线上方退出，AIS，在收盘在其低点下方的空头K线再次卖出。
+
+### 5.6 持续做空：若离场，则在回调中的下跌K线下方再次做空
+
+1. 在每次强势熊市突破（BO）后，将追踪止损下移至最近的主要较低高点上方
+2. 两日空头趋势，在L1，L2和楔形空头旗卖出。当出现卖出信号K线时，在回调至EMA时卖出
+3. 宽空头通道，如果持续做空的空头在反转向上时退出，但是仍然是AIS，在好的空头K线下方再次卖出，特别是第二次卖出信号K线时。
+4. 好的空头K线，意味着收盘价低于中点并且没有很大的尾巴。
+
+### 5.7 持续做空：开盘出现多头陷阱后
+
+1. 开盘反转向上，楔形多头旗
+2. 开盘反转向下，在失败的反转向上，形成DT空头旗
+3. 惊喜空头K线，多头旗下的空头突破，AIS
+4. 20根K线窄幅交易区间内，有很多多头K线，但是都是小K线，没有超过EMA。绝不会再次成为AIL，DT空头旗，然后小的回调空头趋势。
+
+### 5.8 持续做空：源于一根巨型阴线
+
+惊喜巨形空头K线，基于第一根K线的AIS，概率倾向于至少一跳腿向下，在空头K线的下方卖出。
+
+### 5.9 持续做空：源于一根大阴线
+
+1. 楔形，昨日高点之上失败的突破，1根不寻常的大空头K线，因此AIS
+2. 收于14根K线的低点，特别大的空头K线，如此惊喜K线，70%的概率基于实体大小的MM Down(最小目标)
+
+### 5.10 持续做空：源于四根小阴线
+
+1. 强势空头K线
+2. 在4根连续的空头K线好和楔形顶之后，AIS，空头想要3根空头K线，至少有一个收盘在低点。并且具有良好的空头体(此处有3根K线)
+3. 抛物线楔形底，可以退出空头，窄幅空头通道，因此小反转，仍然是AIS，在空头K线的下方再次卖出，或者第二次卖出信号K线。
+4. 第二次卖出信号K线，微HL DB楔形。
+
+### 5.11 持续做空：但仍位于均线上方
+
+1. 昨日高点失败的突破，ioi，因此第二次卖出信号。
+2. 大的空头K线收盘在其低点附近，卖出反转向下。
+3. 通过第2或3根空头K线成为AIS，即使仍然在EMA之上。
+
+## 6. 持续做空,3根多头K线构成熊旗
+
+### 6.1 始终处于空头状态：3根上涨K线构成熊旗形态
+
+1. 在卖出高潮之后，3根多头K线。在窄幅空头通道中之上的突破都是小反转向上
+2. 由于仍然处于AIS
+3. 卖出收盘于其低点的空头K线下方。
+4. LL MTR
+
+## 7. 历史高点的买入高潮
+
+### 7.1 历史高点(ATH)抛物线楔形：随后进入漫长回调
+
+### 7.2 跌破看涨旗形后的空头突破：后续移动向下
+
+### 7.3 历史高点(ATH)：抛物线楔形顶，随后漫长回调
+
+### 7.4 历史高点(ATH)：抛物线楔形顶，随后漫长回调
+
+### 7.5 历史高点(ATH)：失败的抛物线楔形顶
+
+### 7.6 小幅回调(PB)的上涨趋势：频繁出现十字星但伴随跳空缺口
+
+## 8. 破产风险
+
+破产风险但不可做多
+破产风险：交易盈亏比极佳，可考虑做多
+
+## 9. K线计数
+
+熊旗形态：存在多种变体，极少完美形态
+牛旗形态：存在多种变体，极少完美形态
+
+H1和H2多头建仓形态：见于上涨趋势或震荡区间的回调
+
+高3牛旗形态：向下倾斜时呈楔形
+高3牛旗形态：楔形或三角形形态
+
+熊趋势或震荡中的低1低2形态：在阴线下方做空
+熊市中的三角或楔形：低3熊旗形态
+
+连续复杂底部：大概率出现两段式上涨
+连续低2顶部：将形成低4顶部
+连续顶部：先楔形后低2形态
+
+L4：预计将出现两段式下跌及10根横盘至下跌K线
+
+## 10. 数K线 (5分钟图表)
+
+创新高/新低的概率：随交易日推进而递减
+大阴线收于最低点：30%概率成为当日高点
+
+突破前18根K线低点：当日大概率无新高
+18根K线区间突破：反向突破概率仅10%
+
+第39根K线：楔形顶部引发午盘反转下跌
+午盘反转上涨案例：此处指第41根K线
+
+## 11. 大跌，大涨
+
+大幅下跌后大幅反弹：首次尝试未能形成震荡区间(TR)
+大幅下跌后大幅反弹：市场极度混乱 大概率形成震荡区间
+大幅上涨后大幅下跌：市场极度混乱 将进入震荡行情
+大幅下跌后大幅反弹：市场极度混乱 最终形成震荡区间
+大幅下跌后大幅反弹：收盘接近开盘价 形成十字星交易日
+
+## 12. 大跌，大涨，大跌
+
+空头趋势重启：出现在空头极端行情(S Climax)反转上涨后
+空头趋势重启：反弹创新高后恢复下跌
+
+趋势转跌：发生在趋势反转上涨之后
+深度回调(PB)：跌破多头反转底部
+
+下跌趋势延续：原"牛通道"实为熊旗形态
+深度回调(PB)：突破熊市突破(BO)顶部区域
+
+收盘做空(S The Close)：因深度回调可能形成震荡日(TR Day)
+下跌趋势延续：弱势牛通道及双顶(DT)形态后
+
+## 13. 大整数
+
+关键整数关口：在上涨趋势中形成阻力
+关键整数关口：反弹演变为震荡区间
+关键整数关口：引发趋势反转下跌
+关键整数关口：期货市场中的支撑位
+关键整数关口：外汇市场中的支撑位
+关键整数关口：股市中的支撑位
+关键整数关口：股市中的重要支撑位
+
+日线图上的支撑与阻力：4000点关键整数位
+
+## 14. 空头趋势结束后，多头趋势开始
+
+多头趋势：始于空头趋势终结之前
+牛通道：首段上涨在空头趋势结束前已形成
+多头行情启动先于空头趋势终结
+熊旗形态：首段上升浪在空头尾声即已展开
+
+## 15. 18根K线区间空头突破
+
+日内早期高点/低点：每根新K线出现都会增加概率
+窄幅震荡（5点以内）：预期将出现突破(BO)
+
+突破前18根K线低点的晚期突破：可能演变为大级别空头反转日
+第二段下跌陷阱：失败后趋势恢复下行
+
+18根K线区间：在顶部出现强势反转下跌时做空
+开盘突破模式(BOM)：在反转上涨下方做空突破，预期动能向下(MM Down)
+
+突破15分钟周期18根K线低点的晚期突破：形成宽阔下降通道
+18根K线区间下破失败：空头趋势延续
+突破18根K线区间下沿：做空突破及回调做空
+
+第18根K线处反转上涨：因强势抛压仅形成次要反转
+约第18根K线处反转下跌：做空可能形成日内高点
+
+18根K线区间突破：同时开启突破做空模式
+突破18根K线区间下沿：可能进入震荡区间
+突破18根K线区间下沿：强势反弹后创新低
+
+## 16. 18根K线区间失败空头突破
+
+收盘买入：深度回调后可能形成震荡交易日(TR Day)
+18根K线区间下破失败：可能形成日内低点
+18根K线区间下破失败：震荡交易日
+18根K线区间晚期下破：反转上涨
+
+18根K线区间下破：在测试区间高点后发生
+18根K线区间下破失败：空头趋势延续
+18根K线区间下破：强势反弹后创新低
+
+意外突破：突现大阴线，预计第二段下跌
+18根K线区间下破：仅差1个最小价位未能有效突破
+
+## 17. 突破18根K线区间下轨后重新站上区间
+
+突破18根K线区间下轨后反转站上区间
+18根K线下破失败：随后突破上轨
+18根K线下破失败：随后上破也失败
+18根K线区间下破失败后成功上破
+
+18根K线下破失败：随后强势突破上轨
+18根K线下破失败：反转后突破上轨
+突破前18根K线区间下轨：反转上行形成多头突破
+远低于18根K线区间后的反转：回升至区间上方
+
+窄幅18根K线区间：大概率突破并产生向上/向下动能
+18根K线下破失败：晚期突破创新高
+18根K线区间双向突破：先下破后上破
+
+18根K线下破失败：随后成功突破上轨
+18根K线区间下破：强势反转形成日内低点
+18根K线下破失败：形成楔形底部
+宽幅18根K线区间：更可能形成震荡交易日
+
+18根K线区间下破：反转上行创新高
+18根K线下破失败：形成强势楔形底部
+前18根K线区间突破：反转上行
+18根K线下破失败：上破同样失败
+
+## 18. 18根K线区间突破：先下破，再上破，最终重新下破
+
+突破18根K线区间：先下破，再上破，最终创新低
+突破18根K线区间：先下破，再上破，最后重新下破
+突破18根K线区间：上破→下破→再上破→最终下破
+18根K线区间下破失败：未能实现第三次突破
+
+## 19. 18根K线区间多头突破
+
+18根K线区间低点测试：反转上行
+第18根K线反转：实际在第17根K线提前反转
+约第18根K线反转上行：可能形成日内低点
+
+开盘突破模式(BOM)：90%交易日的高低点出现在前18根K线内
+18根K线突破：反转尝试失败后演变为多头旗形
+突破前18根K线上轨：完成等距上涨目标
+
+18根K线区间假突破(F BO)：演变为高1牛旗形态
+18根K线区间突破(B BO)：跳空低开后形成外包阳线日
+突破18根K线上轨：深度回调(PB)
+突破前18根K线区间上轨：可能开启多头趋势或震荡
+
+突破18根K线上轨：发生在更低低点的主要趋势反转后
+15-18根K线突破：常导致横盘整理
+18根K线突破：波动较小日内易形成横盘
+18根K线突破与突破模式：买突破(B BO)与回调做多
+
+18根K线区间：晚期多头突破
+18根K线上破失败：连续8根K线无实体阳线
+突破18根K线上轨：最终演变为空头反转日
+
+开盘突破模式(BOM)：频繁出现新高新低
+18根K线区间突破：震荡日演变为多头趋势日
+
+## 20. 18根K线区间失败的突破
+
+突破18根K线区间上轨失败后深度回调（PB）
+第18根K线反转上涨：形成楔形底部
+18根K线区间上破失败：做空反转下跌
+18根K线区间突破失败：在阴线收盘低位附近做空
+
+跳空高开后反转下跌，随后进入震荡（TR）
+18根K线区间上破：失败
+前18根K线区间上破：失败
+18根K线区间晚期上破：失败
+
+第18根K线后双底（DB）：窄幅震荡日，晚期突破失败
+
+## 21. 突破18根K线区间上轨后重新跌破区间
+
+18根K线区间上破失败后转为空头突破
+空头突破伴随持续动能：下行测量目标(MM Down)
+18根K线区间上破失败：最终下破区间
+18根K线区间突破失败：双向假突破
+
+18根K线区间：FOMC决议后先上破再下破
+18根K线区间上破：反转后跌破区间下轨
+18根K线区间上破：随后转为下破
+18根K线区间上破失败：最终跌破区间底部
+
+15分钟周期18根K线区间上破：反转下跌创新低
+18根K线区间上破：窄幅震荡后创新低
+18根K线区间突破：上下双向突破失败
+18根K线区间上破：反转至新低
+
+18根K线区间突破：失败后反向突破
+15分钟周期18根K线区间上破失败：最终下破
+18根K线区间上破：反转下跌并跌破区间
+18根K线区间上破失败：反转下跌创新低
+
+前18根K线高点突破失败：做空日内新低
+18根K线区间突破失败：第二段陷阱形态
+
+## 22. 突破18根K线区间：先上破，再下破，最终重新上破
+
+突破1%振幅的18根K线区间：上破→下破→再次上破
+18根K线区间突破失败：随后下破又上破
+18根K线区间：上破→下破→重新上破
+
+## 23. 未突破18根K线区间
+
+118根K线区间突破：连续两日未实现突破
+双底高点主要趋势反转(DB HL MTR)：次要反转后形成
+18根K线区间：未突破，在第17根K线反转上行
+
+## 24. 多头突破
+
+牛市趋势：相对强势
+牛市突破：突破交易区间开盘价
+牛市突破：午盘反转后突破上行
+交易区间：尾盘牛市突破
+牛市突破：突破交易区间，做市商推高
+牛市突破：连续收盘站上阻力位
+牛市突破：做市商推高
+牛市突破：做市商推高
+牛市突破：小幅回撤后延续涨势
+三角形上方牛市突破：小幅回撤延续涨势
+突破上升通道及窄幅震荡日：做市商推高
+牛市突破：长下影线但收盘高于中点
+旗形看涨：楔形牛市旗形始于涨势末端前
+强势牛市突破：开盘即确立单边涨势
+
+## 25. 失败的多头突破
+
+牛市陷阱：诱使投资者错失良机或被迫高位接盘
+牛市假突破（常见陷阱类型）：看似强势突破后迅速反转
+熊市突破后逆势拉升：9档点诱空陷阱，形成低点1熊旗形态
+
+## 26. 空头突破
+
+熊市趋势：相对弱势
+大幅熊市突破：确立下跌趋势
+交易区间开盘后：向下突破
+熊市突破：但未连续出现大阴线
+熊市突破并延续：下行趋势确立
+熊市突破：跌破牛市旗形下沿
+熊市突破：反弹衰竭演变为下跌趋势
+熊市突破并延续：预计二次探底？
+熊市突破：强势反弹后的衰竭回落
+强势熊市突破：连续多根大阴线
+熊市突破：跌破EMA均线与上升通道
+熊市震荡日：向下突破区间开盘价
+
+## 27. 失败的空头突破
+
+熊市假突破：实为熊市陷阱
+熊市意外突破失败（常见陷阱类型）：诱空后反转
+跟进乏力：熊市突破失败
+熊市突破失败：形成熊市陷阱
+熊市突破失败：伴随双底(ii)的衰竭性抛售高潮
+跌破楔形底部失败：更低低点(LL)的下降趋势逆转
+熊市突破失败：尾盘诱空陷阱
+
+## 28. 空头突破, 然后两腿向下
+
+熊市突破(BO)：60%概率做市商压盘
+熊市突破并延续：做市商持续压低
+强势熊市突破：二次探底概率较高
+
+## 29. 楔形底部的小型熊市突破：连续两次小幅跌破形成看跌形态
+
+小幅跌破后再破位：楔形底部形态
+
+## 30. 突破形态：小型熊市跌破后再破位，但楔形底部反转失败
+
+小幅熊市突破后的再突破：失败形态
+小幅跌破下方支撑：楔形底部确立
+连续小型突破失效：楔形牛市旗形反转失败
+
+## 31. 突破: 小幅多头突破上方再现小幅突破，形成楔形顶
+
+小幅突破上方阻力：楔形顶部形态
+连续小型突破：最终失效
+小型突破叠加突破：确认失败
+
+## 32. 突破: 小牛突破上方的小牛突破，但楔形顶部失败
+
+SBO2（二次小型突破）：连续小型突破失败，形成楔形熊旗反转
+
+## 33. 多头突破测试 (反弹至突破点)
+
+突破测试（不良买入信号K）：多头再次进场
+突破测试：基于交易区间上方的牛市突破
+突破测试（熊市陷阱）：宽幅上升通道
+突破测试：做市商推升
+突破测试：做市商推升
+突破测试：做市商推升
+突破测试：回撤至突破点下方
+突破测试：回撤至平台顶部下方
+突破测试：小幅回撤延续牛市趋势
+突破测试：仅高于买入信号K1个最小价位
+突破测试：测试空头买入信号K高点
+突破测试：测试弱势买入信号K顶部
+突破测试：弱势买入信号K顶部
+不良买入信号K：磁吸效应
+牛市趋势中的突破测试：三次测试多头入场价位
+突破测试：空头买入信号K高点
+突破测试：针对不良买入信号K
+不良买入信号K：70%概率其高点将被测试
+突破测试：潜在测量缺口
+突破测试：完成测量涨幅
+突破测试：潜在测量涨幅目标
+突破测试：入场价位测试
+突破测试：完成测量涨幅
+突破测试：在收盘接近高点的阳线上方买入
+突破测试：涨幅远超测量目标
+跳空高开：突破测试
+突破测试：未能触及保本止损位
+突破测试：双底形态
+突破测试：小型回撤牛市趋势中的二次陷阱
+突破测试：回撤至买入信号K顶部
+突破测试：与保本止损差1个价位（完美测试）
+突破测试：日线图低点与5分钟高点共振
+
+## 34. 多头突破测试 (回调至突破点), 失败并反转向下
+
+突破测试：未能突破不良卖出信号K底部
+牛市中的突破测试：多头恢复后，价格回落至突破点下方
+
+## 35. 空头趋势突破测试 (反弹至突破点)
+
+突破测试：缺口未补显示空头强势
+突破测试：做市商压价
+突破测试：小幅反弹牛市趋势后形成更低高点（LH）并趋势反转（MTR）
+突破测试：完成测量跌幅
+突破测试：下跌趋势恢复
+突破测试：在小幅回撤的熊市趋势中形成缺口
+突破测试：反弹至突破点失败后反转下跌
+熊市趋势中的突破测试：形成缺口或实体缺口
+突破测试：入场价位测试
+突破测试：价格首次确立持续做空点位
+
+## 36. 熊市突破测试 (反弹至突破点), 失败并反转向上
+
+熊市中的突破测试（BO Test）：多头尝试突破上方阻力但失败
+
+## 37. 交易区间失败的突破
+
+突破但未延续：仍处于更大的交易区间（TR）内
+失败的趋势性区间日：转为熊市反转日
+下行趋势性区间日：区间之间的缺口被回补
+
+## 38. 多头突破
+
+牛市突破形态解析：单根阳线或连续阳线组合均可构成有效突破
+
+## 39. 多头突破, 然后2腿向上
+
+意外牛市突破（Surprise Bull BO）：大阴线实为衰竭缺口形态
+牛市突破（Bull BO）：连续强势阳线表明做市商大概率推升
+
+## 40. 突破模式
+
+突破模式：多空五五开市场
+突破模式：至少需要2次反转确认
+突破模式：任意持续时间的交易区间
+突破模式(BOM)：多头空头势均力敌
+
+开盘BOM特征：频繁创出新高新低
+突破模式：双底形态配合做市商拉升
+前18根K线的BOM：通常横向震荡
+突破模式：首次突破50%概率失败
+
+BOM常见场景：开盘阶段，尤其跳空低开后
+5次及以上反转：交易区间(TR)开盘即BOM
+BOM常见场景：开盘阶段，尤其跳空高开后
+5次及以上反转：交易区间(TR)开盘即BOM
+
+## 41. 熊市趋势在牛市尚未结束时便已启动
+
 Bear Trend Began before Bull Trend Ended
+
+熊市趋势在牛市尚未结束时便已启动
+
 Bear Channel: Began before Bull Trend Ended
+
+熊市通道：形成于牛市终结前
+
 Bear Channel: Began before Bull Trend Ended
 Bear Channel: Began before Rally Ended
 Bear Channel: Began Before Rally Ended
+
+熊市通道：在反弹行情尾声先行确立
+
 Bear Trend Began before Bull Trend Ended
 Bear Trend Began before Bull Trend Ended
 Bear Trend Began before Bull Trend Ended
 Bear Trend Began before Bull Trend Ended
 Bear Trend Began before Bull Trend Ended
+
+楔形牛市旗形中的熊市通道：于牛市趋势末端提前展开
+
 Wedge Bull Flag: Bear Channel Began before End of Bull Trend
-Buy The Close Rally
-Buy The Close: Then Buy Pullbacks
-Always In Long: Can Be Buy The Close or Buy Pullback
-BTC: Only if Strong BO and Not Still in TR
-Buy The Close and Sell The Close Breakouts
-Not Buy The Close: Just a Test of 1S High of DT
-Consecutive Bull Bars: At Least One Is Big and Closed near High
-Big Bull after Big Gap Down: Do Not Need 2nd Bull Bar
-15-Min Chart: Consecutive Bull Bars
-Consecutive Bull Bars: But Tail and Just below EMA
-Strong Buy The Close Bull Trend: Buy for Any Reason
-Buy The Close (BTC) Bull Trend BTC: What's Needed
-B The C: Bulls Usually Can Avoid Loss
-BTC: After Big Tail, TR Likely Within 3 Bars
-Buy The Close: Bad Buy Signal Bar
-Buy The Close, but Disappointed Bulls
-Disappointed Bulls: Either Exit at Highest C, or Hold for BO
-Disappointment Bar: Minor Reversal Down after Reasonable Buy
-Disappointed B The Close Bulls: Scaled in Lower, Made Money
-Disappointed Bulls: Buy More Lower
-Bull MC in Extreme B Climax: Expect 2 Legs Down
-B The Close: Disappointed Bulls Had to Wait
-B The Close: Big 7" Bar Attracts Profit Takers
-Disappointed Bulls: Bull Trap
-Disappointed Buy The Close Bulls: Avoided Loss
-Micro DT: Disappointed Bulls Exited
-Strong Bull BO: Disappointed Bulls
-B The C: Disappointed Bulls Created Micro DT
-BTC, but Bad Follow-Through: Disappointed Bulls
-BTC, but Bad Follow-Through: Disappointed Bulls
-Buy The Close: Scale In Lower
-Buy The Close, but Disappointed Bulls, Then Bull Resumed
-Disappointed BTC Bulls: Did Not Exit at Highest Close
-BTC Disappointed Bulls: Bought Again When Bears Failed
-BTC Disappointed Bulls: Bought Again When Bears Failed
-Buy The Close, but Disappointed Bulls Lost Money
-Reasonable Buy The Close That Fails: 80% Chance of No Loss
-B The Close: Deep PB, and Scale-In, Limit Order Bulls Lost
-B The Close Bulls: Could Not Avoid Loss
-Buy The Close (BTC): Disappointed Bulls
-Buy The Close, Then Deep PB
-Reasonable Buy The Close That Fails: 80% Chance of No Loss
-Buy The Close (BTC): Deep PB
-Buy The Close: Then Deep Pullback
-Buy The Close: Deep Pullback
-Reasonable Buy The Close: Exit Breakeven
-Buy The Close (BTC): Deep PB, SoTR
-Buy The Close: 6 Bars Often is B Climax
-B The Close: Deep PB
-B The Close: No Chance to Avoid Loss
-B The Close: Deep PB
-B The Close: Deep PB, Then Test of Highest Close
-Buy The Close (BTC): Deep PB, so TR
-Buy The Close: Scale In
-BTC: Deep PB
-BTC, but Deep PB: TR Likely
-Buy The Close: Deep PB, but Bull Trend Resumed
-B The Close: Rally to Highest B Signal Came at End of Day
-Buy The Close: Deep PB
-Buy The Close: Deep PB
-B The Close: Deep PB
-Buy The Close: Deep PB
-B The Close: Deep PB so TR Day More Likely Than Bull Trend a DFA andh We the eb Scale in bulls exit
-B The Close: Deep PB
-B The Close: Scale In Bulls Avoided Loss
-Buy The Close (BTC): Can Avoid Loss 90% of Time
-DB HL MTR: Then Buy Climax and Bear Trend Reversal
-Buy The Close (BTC): Deep PB, Scale In, Exit Breakeven
-Buy The Close Failed and Became Exhaustion Gap
-Buy The Close: Wedge Top, Bulls Could Not Make Profit
-Exhaustive Buy Climax: End of Bull Trend
-Buy The Close at End Of Day
-Buy The Close Rally: At End of Day Nested Wedge Bottom
-Buy The Close at End of Day: Reversal Down Next Day
-End of Day Buy The Close: Trend Resumption Up
-Friday Trend into Close: Last Day of Week and Month
-B The Close: End of Day
-End of Day B The Close: End of Quarter Window Dressing
-Buy The Close: End Of Day
-End of Day B The Close: Big DB
-Buy The Close at End Of Day: Trend Resumption Up
-End of Day Buy The Close: Started Early, but Bull Trend
-End Of Day BTC: Can Start Early if Bull Trend Day
-BTC at EOD: Trend Resumption Up
-BTC at End of Day: Exit below Bear Bar
-BTC at End Of Day: If Not Climactic, Can Last 1- 2 Hours
-Late B The Close Rally: Trend Resumption Up
-Late B The Close Rally: Big Bar after 5 Bars Is Exhaustive
-B The Close at End of Day: Exhaustive B Climax
-Buy The Close: If Starts Before 12:30, Usually Reverses
-BTC at EOD: Usually Ends After 5 - 6 Bars
-BTC at EOD: Failed
-BTC: Risk Happens Fast at End Of Day!
-BTC at EOD: Lasts 5 - 6 bars
-Buy The Close at End Of Day, but Started Too Early
-End of Day Buy The Close: Started Early, but Bull Trend Day
-B The Close: Started Early, but in Bull Channel
-B The Close: Started too Early in TR Day
-B The Close: Then Bull Trend Resumption
-B The Close at End Of Day: Started Too Early
-B The Close: Started early, but Lasted Until Close of Day
-Buy The Close: Began at 12:00 and Lasted Until Close
-B The Close: Big Bar Late in Rally so Exhaustion
-B The Close: Started Too Early in TR Day
-B The Close at End Of Day: Started too Early
-BTC at End Of Day: Started Too Early
-B The Close at End Of Day: Started Too Early
-Buy The Close at End Of Day: Started Too Early
-BTC: Consecutive Buy Climaxes, Started Too Early
-BTC at End of Day: Started Too Early
-B The Close at End Of Day: Started Too Early, but Lasted
-BTC at End Of Day: Started Too Early
-B The C At End Of Day: S below Bear Bar
-BTC EOD: If Starts before 12:30, Usually Fails
-Buy The Close in TR so Better to Sell Close of Bull Bars
-BTC in TR: Better to Fade (Sell High, Buy Low)
-If Buy Top of TR: Need Wide Stops and Scale In (Better to Fade)
-BTC in TR: B Bear C, S Bull Close
-Big Up, Big Down so Big Confusion and Likely TR
-Bull Major Surprise: Then Bear Major Surprise
-Big Up, Big Down: Then Trading Range
-Big Up, Big Down, Big Confusion: Trading Range Day
-Big Up Big Down: Triangle, and Midday Bear Breakout
-Big Up, Big Down: Big Confusion, so TR Most Likely
-Big Up, Big Down, Big Confusion: Bear Trend, Not TR
-Big Up, Big Down: Bear Reversal Day and TR Day
-Big Up and Down: Late BO below Yesterday’s L
-Big Up, Big Down Big Up
-PB below Bottom of Big Bull Bar: LL Bull Flag
-Bear Major Surprise: No New H
-Big Up, Big Down: Bull Trend Resumed, Not TR
-Trend Resumption Up: Bar 40 Midday Reversal
-Deep Pullback: Almost to Bottom of Bull Trend, Then Triangle
-Bull Trend Resumption: After Big Selloff
-Bull and Bear Major Surprises: TR Likely
-Buy Climax
-Buy Climax: Major Trend Reversal Down
-Buy Climax: Reversal Down, Then Trading Range
-Reversal Down from Buy Climax: Sometimes Resumes Up
-Buy Climax Yesterday: Expect 2 hours Sideways to Down
-Day after Buy Climax: Expect 2 Hours of Sideways to Down
-Day after Buy Climax: Expect 2 Hours of Sideways to Down
-Day after Buy Climax: Expect 2 Hours of Sideways to Down
-Day after Buy Climax: Expect 2 Hours of Sideways to Down
-Buy Climax: Endless Pullback
-Buy Climax: Reversal down Ahead of FOMC
-Buy Climax: Trading Range Day
-Buy Climax: Then Trading Range
-Buy Climax: Then Bear Spike and Channel
-Buy Climax: Then Wedge Bottom
-Consecutive Buy Climaxes: Look for Reversal
-Exhaustive Buy Climax: At MM Up
-Exhaustive Buy Climax: Biggest Bull Bars Late in Bull Trend
-Exhaustive Buy Climax: Failed Breakout of Trading Range
-Exhaustive Bull Climax: By Far, the Biggest Bull Bar
-B Climax: Micro DT
-Consecutive Buy Climaxes: Bear Reversal Day
-Gap Up, Opening Reversal Down: Buy Climax
-li after Buy Climax: Expect 2 Legs Sideways to Down
-Buy Climax: End of Strong Bull Trend, but TR, Not Reversal
-Buy Climax: Strong Bear Bar and Reversal Down
-Bull Trend From Open: TR after Parabolic Wedge B Climax
-Gap Up: Buy Climax
-Consecutive Buy Climaxes
-Consecutive B Climaxes: Exhaustion Likely, but MM Up
-Consecutive Buy Climaxes: Small PB Bull so Not Climactic
+
+## 42. 买入收盘反弹
+
+买入收盘价（Buy The Close）：随后逢回调买入
+始终持有多头：可以是买入收盘价或逢低买入
+突破强劲且未处震荡区间时方可买入收盘价（BTC）
+买入收盘价与卖出突破收盘价（Breakouts）
+非买入收盘价：仅作为DT（下跌趋势）中1S高点的测试
+连续阳线：至少有一根大阳线且收盘接近高点
+大阴线后出现大阳线：无需第二根阳线确认
+15分钟图表：连续阳线
+连续阳线：但带长上影线且位于EMA下方
+强劲收盘买入（BTC）牛市趋势：任意理由皆可买入
+牛市趋势中买入收盘价（BTC）所需条件
+买入收盘价（BTC）：多头通常能避免亏损
+长影线后：3根K线内可能进入震荡区间（TR）
+买入收盘价：不良买入信号K线
+
+## 43. 买入收盘价，但令多头失望
+
+失望的多头：要么在最高点退出，要么持有等待突破
+失望K线：合理买入后出现小幅反转下跌
+收盘买入失望的多头：分批低位加仓，最终盈利
+失望的多头：继续在更低位置买入
+极端牛市高潮中的多头陷阱：预计两段下跌
+收盘买入：失望的多头被迫等待
+收盘买入：大阳线引发获利了结
+失望的多头：牛市陷阱
+收盘买入失望的多头：避免了亏损
+微型下跌趋势：失望多头离场
+强势多头突破：失望的多头
+收盘买入：失望多头导致微型下跌趋势
+收盘买入但后续乏力：失望的多头
+收盘买入但后续乏力：失望的多头
+收盘买入：分批在更低位置加仓
+
+## 44. 买入收盘, 失败的多头, 然后多头恢复
+
+收盘买入策略失望的多头：未能在最高收盘价离场
+失望的多头：当空头反扑失败时再次买入
+失望的多头：在空头无力延续时选择加仓
+
+## 45. 买入收盘, 失望的多头亏钱
+
+合理的收盘买入策略失败：80%概率不会亏损
+收盘买入：深度回调时加仓，限价单多头亏损
+收盘买入多头：未能避免亏损
+收盘买入策略：失望的多头
+
+## 46. 买入收盘, 然后深度回调
+
+合理的收盘买入策略失败：80%概率保本
+收盘买入（BTC）：深度回调
+收盘买入后出现深度回撤
+收盘买入：深度回撤
+合理的收盘买入策略：保本离场
+收盘买入（BTC）：深度回调，进入震荡区间
+收盘买入：连续6根K线常现多头高潮
+收盘买入：深度回调
+收盘买入：无法避免亏损
+收盘买入：深度回调
+收盘买入：深度回调后测试最高收盘价
+收盘买入（BTC）：深度回调，进入震荡区间
+收盘买入：分批建仓
+收盘买入（BTC）：深度回调
+收盘买入但深度回调：可能进入震荡区间
+收盘买入：深度回调但恢复上涨趋势
+收盘买入：尾盘冲高至最佳买入信号位
+收盘买入：深度回调
+收盘买入：深度回调
+收盘买入：深度回调
+收盘买入：深度回调
+收盘买入：深度回调后更可能震荡而非上涨（分批建仓多头离场）
+收盘买入：深度回调
+收盘买入：分批建仓多头避免亏损
+收盘买入（BTC）：90%概率可避免亏损
+双底高位震荡后：买入高潮及空头趋势反转
+收盘买入（BTC）：深度回调，分批建仓，保本离场
+
+## 47. 买入收盘失败，成为耗竭缺口
+
+收盘买入策略：楔形顶部形态，多头未能获利
+衰竭性买入高潮：标志着上涨趋势的终结
+
+## 48. 尾盘买入收盘
+
+尾盘收盘买入反弹：日内嵌套楔形底部形态
+尾盘收盘买入策略：次日反转下跌
+尾盘收盘买入：延续上涨趋势
+周五收盘走势：当周及月末最后一个交易日
+尾盘收盘买入
+季度末尾盘收盘买入：机构窗口粉饰行为
+尾盘收盘买入
+尾盘收盘买入：双底形态
+尾盘收盘买入：延续上涨趋势
+尾盘收盘买入：提前启动但维持涨势
+尾盘收盘买入：在上涨趋势日可提前布局
+尾盘收盘买入：延续上涨趋势
+尾盘收盘买入：跌破空头K线即离场
+尾盘收盘买入：若非高潮形态，可持续1-2小时
+尾盘收盘买入反弹：延续上涨趋势
+尾盘收盘买入反弹：五根K线后大阳线为衰竭信号
+尾盘收盘买入：多头动能衰竭高潮
+收盘买入策略：若在12:30前启动通常反转
+尾盘收盘买入：通常持续5-6根K线
+尾盘收盘买入策略：失败案例
+警惕！尾盘收盘买入风险可能快速爆发
+尾盘收盘买入：通常持续5-6根K线
+
+## 49. 尾盘收盘买入策略启动过早
+
+尾盘收盘买入策略：启动过早但处于单边上涨行情
+收盘买入：提前启动但处于上升通道中
+收盘买入：在震荡行情中过早进场
+收盘买入：随后涨势恢复
+尾盘收盘买入：进场时机过早
+收盘买入：提早进场但持续至收盘
+收盘买入：始于12点并延续至收盘
+收盘买入：反弹末期出现大阳线预示动能衰竭
+收盘买入：在震荡日中过早进场
+尾盘收盘买入：启动过早
+尾盘收盘买入：进场时机过早
+尾盘收盘买入：启动过早
+尾盘收盘买入：进场过早
+收盘买入：连续多头高潮但启动过早
+尾盘收盘买入：进场时机过早
+尾盘收盘买入：启动过早但仍持续
+尾盘收盘买入：进场过早
+尾盘收盘买入：空头K线下方卖出信号
+尾盘收盘买入：若在12:30前启动通常失败
+
+## 50. 买入交易区间收盘，因此最好在多头K线收盘时卖出
+
+震荡行情中的收盘买入策略：更适合反向操作（高卖低买）
+若在震荡区间顶部买入：需设置宽松止损并分批建仓（更适合反向操作）
+震荡行情中的收盘买入策略：多头接近空头收盘位时卖出，空头接近多头收盘位时买入
+
+## 51. 大涨、大跌，因此高度混乱，大概率交易区间
+
+牛市重大意外：随后熊市重大意外
+大涨，大跌：随后进入交易区间
+大涨，大跌，大混乱：交易区间日
+大涨大跌：三角形，及午盘熊市突破
+大涨，大跌：高度混乱，因此大概率交易区间
+大涨，大跌，大混乱：熊市趋势，非交易区间
+大涨，大跌：熊市反转日兼交易区间日
+大涨与大跌：尾盘跌破昨日低点突破
+
+## 52. 大涨，大跌，大涨
+
+价格跌破大阳线底部：形成更低低点的牛市旗形
+空头大惊喜K线：未能创新高
+暴涨，暴跌：牛市趋势延续（非震荡区间）
+趋势恢复上涨：第40根K线触发午盘反转
+深度回撤：触及牛市趋势底部后形成三角整理
+牛市趋势重启：经历大幅抛售后恢复
+牛市和熊市惊喜K线：大概率进入震荡行情（TR）
+
+## 53. 买入高潮
+
+买入高潮：主要趋势反转下跌
+
+买入高潮：反转下跌后进入震荡区间
+
+买入高潮的反转向下：有时会恢复上涨
+
+昨日买入高潮：预计2小时横盘至下跌
+
+买入高潮次日：预计2小时横盘至下跌（重复条目）
+
+买入高潮：无止境回撤
+
+买入高潮：FOMC会议前的反转下跌
+
+买入高潮：震荡交易日
+
+买入高潮：随后进入震荡区间
+
+买入高潮：随后出现熊市尖峰和通道
+
+买入高潮：随后形成楔形底部
+
+连续买入高潮：警惕反转
+
+衰竭性买入高潮：出现在上涨目标位
+
+衰竭性买入高潮：牛市末期出现最大阳线
+
+衰竭性买入高潮：突破震荡区间失败
+
+衰竭性牛市高潮：迄今为止最大的阳线
+
+B类高潮：微型双顶
+
+连续买入高潮：熊市反转日
+
+跳空高开开盘反转下跌：买入高潮
+
+买入高潮后：预计两段式横盘至下跌
+
+买入高潮：强势牛市趋势结束，但转为震荡而非反转
+
+买入高潮：强势阴线和反转下跌
+
+开盘牛市趋势：抛物线楔形B类高潮后进入震荡
+
+跳空高开：买入高潮
+
+## 54. 连续买入高潮
+
+连续买入高潮：可能是耗竭，但是测量移动向上
+
+连续买入高潮：小幅回撤仍看涨，未达高潮
+
+极端买入高潮的牛市动量确认：预计两段式横盘至下跌
+
 Bull MC in Extreme B Climax: Expect 2 Legs Sideways to Down
 Consecutive Buy Climaxes: Expect Trading Range
 Consecutive B Climaxes: Exhaustion Likely, but MM Up
@@ -599,7 +912,9 @@ Consecutive Buy Climaxes: 2 Big Legs Down
 Consecutive Buy Climaxes on Open: Often Leads to Tight TR
 Small PB Bull: Consecutive Buy Climaxes, Then TR
 Consecutive Buy Climaxes : Deep PB Made TR Day Likely
-Buy Climax Then Deep Pullback
+
+## 55. 买入高潮后深度回调
+
 Deep PB: After B Climax on Open
 BTC: Deep PB so TR Day Likely
 Deep PB: Fell below Bottom of Bull Trend
@@ -609,17 +924,23 @@ PB below Bottom of Big Bull Bar: LL Bull Flag
 PB below Bull Trend: Buy Reversal Up
 PB below Bull Trend: Buy Reversal Up
 Deep PB: Bull Trend From The Open
-Buy Climax but Failed Reversal
+
+## 56. 买入高潮，失败的反转
+
 Buy Climax Failed: But Reversed Down after 2nd Signal
 Buy Climax Failed: Then Wedge Bull Flag and HL MTR
 Buy Climax: Failed Reversal
 Consecutive Buy Climaxes: But Became Measuring Gap
 Exhaustion Gap Failed: Got High 1 Bull Flag
 End Of Day BTC: Can Start Early if Bull Trend Day
-Buy Climax and Measured Move Down
+
+## 57. 买入高潮和测量移动向下
+
 Climax: Can Lead to Measured Move Up or Down
 Climax Up: Reversal to below Bottom of Buy Climax
-Buy Climax Yesterday
+
+## 58. 昨日买入高潮
+
 Yesterday Was Buy Climax: Buy Climax, Then Reversal
 Yesterday Was Buy Climax Day: Expect Pause Today
 Yesterday Was Buy Climax: Today, Trading Range at Bar 23
@@ -640,4 +961,3 @@ Yesterday Buy Climax: Expect 2-Hour Trading Range
 Buy Climax Yesterday: Expect 2 Hours Sideways to Down
 Buy Climax Yesterday: Expect 2 Hours Sideways to Down
 Yesterday Was Buy Climax: Only 19-Bar Trading Range Today
-Classifications: A to B
