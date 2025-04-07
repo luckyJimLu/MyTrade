@@ -69,6 +69,7 @@
 | 双重底回撤                          | ![image-20250406135951579](AL Brooks交易百科全书.assets/image-20250406135951579.png) |
 | 高低点双重底(HL DB)下方突破(BO)失败 | ![image-20250406140032905](AL Brooks交易百科全书.assets/image-20250406140032905.png) |
 | 三角形                              | ![image-20250406140127621](AL Brooks交易百科全书.assets/image-20250406140127621.png) |
+=======
 
 ### 2.4 三重顶：变体与不完美性
 
@@ -81,8 +82,7 @@
 | 双顶上失败的突破(第2高点位于第1高点之下)                     | ![image-20250407121714109](AL%20Brooks%E4%BA%A4%E6%98%93%E7%99%BE%E7%A7%91%E5%85%A8%E4%B9%A6.assets/image-20250407121714109.png) |
 | 楔形                                                         | ![image-20250407121723660](AL%20Brooks%E4%BA%A4%E6%98%93%E7%99%BE%E7%A7%91%E5%85%A8%E4%B9%A6.assets/image-20250407121723660.png) |
 | 三角形                                                       | ![image-20250407121733776](AL%20Brooks%E4%BA%A4%E6%98%93%E7%99%BE%E7%A7%91%E5%85%A8%E4%B9%A6.assets/image-20250407121733776.png) |
-
-
+=======
 
 ## 3. 持续多头
 
@@ -960,4 +960,9 @@ Yesterday Was Buy Climax: Trading Range Day
 Yesterday Buy Climax: Expect 2-Hour Trading Range
 Buy Climax Yesterday: Expect 2 Hours Sideways to Down
 Buy Climax Yesterday: Expect 2 Hours Sideways to Down
+<<<<<<< HEAD
 Yesterday Was Buy Climax: Only 19-Bar Trading Range Today
+=======
+Yesterday Was Buy Climax: Only 19-Bar Trading Range Today
+Classifications: A to B
+>>>>>>> 777ce88d25d72844e5ef3a4a9f9c80fdfb982e38
