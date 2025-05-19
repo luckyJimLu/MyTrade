@@ -1,4 +1,4 @@
-# 参考资料
+6# 参考资料
 [技术分析](https://docs.google.com/document/d/16aHGQyR8uMy3W4cxlw6Y_9PPmNpT_FBbs-3lQHN8zr8/edit?usp=sharing)  
 [交易课程](https://docs.google.com/document/d/10EGod2rVN8tcsUaSITG5_KJ3djsLGesbZqemJk2lhng/edit?usp=drivesdk)  
 [价格行为学](https://docs.google.com/document/d/1waj62U6VGg9hvjFohnRZ7OJTw9qg8qAB4IkJzAv58Qk/edit?usp=sharing)  
@@ -26,4 +26,5 @@
 [百科全书](https://docs.google.com/spreadsheets/d/1RDhrocZUlO76QSZOLnyeu2TbZcrqImKIVEBeuhjHWoI/edit?usp=drivesdk)  
 [K线计数](https://docs.google.com/document/d/1Q_OCeb-HOp385e2gJRWyDfeluq277maPXn8aA_XOzo4/edit?usp=drivesdk)  
 [缺口](https://docs.google.com/document/d/1a-xl20EMZCrWu_moIBBgsqWnHinxbgA3Q0XUMqgVDBE/edit?usp=drivesdk)  
+[市场周期](https://docs.google.com/document/d/1SuRc_rNAGxSWsep0nzfFXqfl_ReBDKHDs464OoNL870/edit?usp=drivesdk)  
 
