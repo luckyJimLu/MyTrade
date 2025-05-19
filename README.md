@@ -24,3 +24,4 @@
 [机构投资者追踪](https://www.dataroma.com/m/home.php)    
 [Al brooks blog](https://www.brookstradingcourse.com/price-action-trading-blog/)   
 [百科全书](https://docs.google.com/spreadsheets/d/1RDhrocZUlO76QSZOLnyeu2TbZcrqImKIVEBeuhjHWoI/edit?usp=drivesdk)
+[K线计数](https://docs.google.com/document/d/1Q_OCeb-HOp385e2gJRWyDfeluq277maPXn8aA_XOzo4/edit?usp=drivesdk)
