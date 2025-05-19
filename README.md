@@ -30,6 +30,8 @@
 [always in](https://docs.google.com/document/d/1SuRc_rNAGxSWsep0nzfFXqfl_ReBDKHDs464OoNL870/edit?usp=drivesdk)  
 [趋势](https://docs.google.com/document/d/1thLKzxeerHZhqUfILRWokWHRVvqgqS_yAM0CEm3y6Nc/edit?usp=drivesdk)  
 [突破](https://docs.google.com/document/d/1FNW5pwY7k5gZdPUvyFKikQqk_qLaniRIEdCDeJCsgho/edit?usp=drivesdk)  
+[买卖压力](https://docs.google.com/document/d/1y8PwHdQHPUGGwDldAnxm9thQWW7_eN77ByPoQYMHPVA/edit?usp=drivesdk)  
+
 
 
 
