@@ -28,5 +28,7 @@
 [缺口](https://docs.google.com/document/d/1a-xl20EMZCrWu_moIBBgsqWnHinxbgA3Q0XUMqgVDBE/edit?usp=drivesdk)  
 [市场周期](https://docs.google.com/document/d/1SuRc_rNAGxSWsep0nzfFXqfl_ReBDKHDs464OoNL870/edit?usp=drivesdk)  
 [always in](https://docs.google.com/document/d/1SuRc_rNAGxSWsep0nzfFXqfl_ReBDKHDs464OoNL870/edit?usp=drivesdk)  
+[趋势](https://docs.google.com/document/d/1thLKzxeerHZhqUfILRWokWHRVvqgqS_yAM0CEm3y6Nc/edit?usp=drivesdk)  
+
 
 
