@@ -1,5 +1,4 @@
 # 参考资料  
->>>>>>> 2aa227829dc52bf96cc6e7d4e90458e985fb2625
 [技术分析](https://docs.google.com/document/d/16aHGQyR8uMy3W4cxlw6Y_9PPmNpT_FBbs-3lQHN8zr8/edit?usp=sharing)  
 [交易课程](https://docs.google.com/document/d/10EGod2rVN8tcsUaSITG5_KJ3djsLGesbZqemJk2lhng/edit?usp=drivesdk)  
 [价格行为学](https://docs.google.com/document/d/1waj62U6VGg9hvjFohnRZ7OJTw9qg8qAB4IkJzAv58Qk/edit?usp=sharing)  
@@ -39,7 +38,7 @@
 [19.支撑与阻力](https://docs.google.com/document/d/1l__SAnnt7pOhtiqEwZwsdnw1dpTH6xoZTNzAr7PRu1E/edit?usp=sharing)  
 [20.测量移动](https://docs.google.com/document/d/1U8j8uj30PWC-004J4mIKOR_6E_kXsNCmcfNJfHzRXuk/edit?usp=sharing)  
 [21.反转](https://docs.google.com/document/d/1X5wHAyh7TErrv74_v-ypYvTDD6DWso6CYGKxXneOujw/edit?usp=sharing)    
-[22.主要趋势反转)[https://docs.google.com/document/d/1BvAOo15yWAxa2Hqjrz1G6guBfr6Ki6qgAdJvOOLtfqA/edit?usp=sharing]  
+[22.主要趋势反转][https://docs.google.com/document/d/1BvAOo15yWAxa2Hqjrz1G6guBfr6Ki6qgAdJvOOLtfqA/edit?usp=sharing]  
 
 # 交易价格行为
 
