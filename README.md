@@ -1,4 +1,5 @@
-# 参考资料   
+# 参考资料  
+>>>>>>> 2aa227829dc52bf96cc6e7d4e90458e985fb2625
 [技术分析](https://docs.google.com/document/d/16aHGQyR8uMy3W4cxlw6Y_9PPmNpT_FBbs-3lQHN8zr8/edit?usp=sharing)  
 [交易课程](https://docs.google.com/document/d/10EGod2rVN8tcsUaSITG5_KJ3djsLGesbZqemJk2lhng/edit?usp=drivesdk)  
 [价格行为学](https://docs.google.com/document/d/1waj62U6VGg9hvjFohnRZ7OJTw9qg8qAB4IkJzAv58Qk/edit?usp=sharing)  
@@ -23,4 +24,15 @@
 [对冲基金仓位](https://hedgefollow.com/)    
 [机构投资者追踪](https://www.dataroma.com/m/home.php)    
 [Al brooks blog](https://www.brookstradingcourse.com/price-action-trading-blog/)   
-[百科全书](https://docs.google.com/document/d/1LFLhpixgRIkNwYUPGnIBVLGur4Qj_hEYnN3u20ZHojM/edit?tab=t.jzrih67cwgw4#heading=h.5pdu344chjh0)
+[百科全书](https://docs.google.com/spreadsheets/d/1RDhrocZUlO76QSZOLnyeu2TbZcrqImKIVEBeuhjHWoI/edit?usp=drivesdk)  
+[K线计数](https://docs.google.com/document/d/1Q_OCeb-HOp385e2gJRWyDfeluq277maPXn8aA_XOzo4/edit?usp=drivesdk)  
+[缺口](https://docs.google.com/document/d/1a-xl20EMZCrWu_moIBBgsqWnHinxbgA3Q0XUMqgVDBE/edit?usp=drivesdk)  
+[市场周期](https://docs.google.com/document/d/1SuRc_rNAGxSWsep0nzfFXqfl_ReBDKHDs464OoNL870/edit?usp=drivesdk)  
+[always in](https://docs.google.com/document/d/1SuRc_rNAGxSWsep0nzfFXqfl_ReBDKHDs464OoNL870/edit?usp=drivesdk)  
+[趋势](https://docs.google.com/document/d/1thLKzxeerHZhqUfILRWokWHRVvqgqS_yAM0CEm3y6Nc/edit?usp=drivesdk)  
+[突破](https://docs.google.com/document/d/1FNW5pwY7k5gZdPUvyFKikQqk_qLaniRIEdCDeJCsgho/edit?usp=drivesdk)  
+[买卖压力](https://docs.google.com/document/d/1y8PwHdQHPUGGwDldAnxm9thQWW7_eN77ByPoQYMHPVA/edit?usp=drivesdk)  
+
+
+
+
