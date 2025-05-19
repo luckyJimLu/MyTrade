@@ -27,4 +27,6 @@
 [K线计数](https://docs.google.com/document/d/1Q_OCeb-HOp385e2gJRWyDfeluq277maPXn8aA_XOzo4/edit?usp=drivesdk)  
 [缺口](https://docs.google.com/document/d/1a-xl20EMZCrWu_moIBBgsqWnHinxbgA3Q0XUMqgVDBE/edit?usp=drivesdk)  
 [市场周期](https://docs.google.com/document/d/1SuRc_rNAGxSWsep0nzfFXqfl_ReBDKHDs464OoNL870/edit?usp=drivesdk)  
+[always in](https://docs.google.com/document/d/1SuRc_rNAGxSWsep0nzfFXqfl_ReBDKHDs464OoNL870/edit?usp=drivesdk)  
+
 
