@@ -38,7 +38,7 @@
 [19.支撑与阻力](https://docs.google.com/document/d/1l__SAnnt7pOhtiqEwZwsdnw1dpTH6xoZTNzAr7PRu1E/edit?usp=sharing)  
 [20.测量移动](https://docs.google.com/document/d/1U8j8uj30PWC-004J4mIKOR_6E_kXsNCmcfNJfHzRXuk/edit?usp=sharing)  
 [21.反转](https://docs.google.com/document/d/1X5wHAyh7TErrv74_v-ypYvTDD6DWso6CYGKxXneOujw/edit?usp=sharing)    
-[22.主要趋势反转][https://docs.google.com/document/d/1BvAOo15yWAxa2Hqjrz1G6guBfr6Ki6qgAdJvOOLtfqA/edit?usp=sharing]  
+[22.主要趋势反转](https://docs.google.com/document/d/1BvAOo15yWAxa2Hqjrz1G6guBfr6Ki6qgAdJvOOLtfqA/edit?usp=sharing)    
 
 # 交易价格行为
 
