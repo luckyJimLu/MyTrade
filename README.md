@@ -1,8 +1,4 @@
-# 参考资料  
-[技术分析](https://docs.google.com/document/d/16aHGQyR8uMy3W4cxlw6Y_9PPmNpT_FBbs-3lQHN8zr8/edit?usp=sharing)  
-[交易课程](https://docs.google.com/document/d/10EGod2rVN8tcsUaSITG5_KJ3djsLGesbZqemJk2lhng/edit?usp=drivesdk)  
-[价格行为学](https://docs.google.com/document/d/1waj62U6VGg9hvjFohnRZ7OJTw9qg8qAB4IkJzAv58Qk/edit?usp=sharing)  
-[AL Brooks交易行为课程](https://docs.google.com/document/d/100MVqsMciGCj0XHUU1Tg0Jlgpq1LOGZ-Dy4Mv1cpMLY/edit?usp=sharing)   
+# 参考资料   
 [每日行情](https://www.brookstradingcourse.com/analysis/bitcoin-fade-bulls-70k/)  
 [思维导图](https://mcnqftyvfics.feishu.cn/docx/LoOsdBZp5oFFUExKHvxcjINinUe?from=from_copylink)  
 
@@ -13,6 +9,7 @@
 [TIGER GLOBAL MANAGEMENT LLC](https://13f.info/manager/0001167483-tiger-global-management-llc)   
 [Scion Asset Management, LLC](https://13f.info/manager/0001649339-scion-asset-management-llc)   
 [SOROS FUND MANAGEMENT LLC](https://13f.info/manager/0001029160-soros-fund-management-llc)   
+
 # 财经新闻
 [路透社](https://www.reuters.com/world/china/)   
 [彭博社](https://www.bloomberg.com/asia)   
@@ -24,6 +21,11 @@
 [机构投资者追踪](https://www.dataroma.com/m/home.php)    
 [Al brooks blog](https://www.brookstradingcourse.com/price-action-trading-blog/)   
 [百科全书](https://docs.google.com/spreadsheets/d/1RDhrocZUlO76QSZOLnyeu2TbZcrqImKIVEBeuhjHWoI/edit?usp=drivesdk)  
+# 价格行为交易书籍
+[1.趋势](https://docs.google.com/document/d/1BKnvKOdRi90gGgASmvyTrwTmsZhuxxQ5MW7H6-EKcGE/edit?usp=sharing)  
+[2.交易区间](https://docs.google.com/document/d/1Hj0wCxLwDnYfNbXVVenUjdOKDJQUoXbKLi5Vt43Wi_E/edit?usp=sharing)  
+[3.反转](https://docs.google.com/document/d/14WkI3n9gN4iBAdz1UYbrabPmSilLU9-GYrRZvsymdRU/edit?usp=sharing)  
+
 # 价格行为基础
 [09.K线计数](https://docs.google.com/document/d/1Q_OCeb-HOp385e2gJRWyDfeluq277maPXn8aA_XOzo4/edit?usp=drivesdk)  
 [10.买卖压力](https://docs.google.com/document/d/1y8PwHdQHPUGGwDldAnxm9thQWW7_eN77ByPoQYMHPVA/edit?usp=drivesdk)  
@@ -39,7 +41,24 @@
 [20.测量移动](https://docs.google.com/document/d/1U8j8uj30PWC-004J4mIKOR_6E_kXsNCmcfNJfHzRXuk/edit?usp=sharing)  
 [21.反转](https://docs.google.com/document/d/1X5wHAyh7TErrv74_v-ypYvTDD6DWso6CYGKxXneOujw/edit?usp=sharing)    
 [22.主要趋势反转](https://docs.google.com/document/d/1BvAOo15yWAxa2Hqjrz1G6guBfr6Ki6qgAdJvOOLtfqA/edit?usp=sharing)    
-
+[23.最终旗形](https://docs.google.com/document/d/1l8lVWZyD-vPZk51ZVDdta-CKKXQm8lLXHgTwafzSxiE/edit?usp=sharing)  
+[24.楔形](https://docs.google.com/document/d/1_aXFgLyRN4MgxzI8XqjF_wJ7uUe96OmnukOJhkOvOFU/edit?usp=sharing)  
+[25.双顶与双底](https://docs.google.com/document/d/10DqAR41udPSJltIhJeiiH-wDIF4dwhtZukPGvC8Zf8c/edit?usp=sharing)  
+[26.三角形](https://docs.google.com/document/d/1F9Z9QxgA1wOAn2R1no2vvEhih4h4Rd9JSPYXeQLOCJI/edit?usp=sharing)  
+[27.头和肩](https://docs.google.com/document/d/1boeRfAdj521k7ZZUOM2Fh6B1sqi3ve5wbt0upr2QXWY/edit?usp=sharing)  
+[28.圆顶与圆底](https://docs.google.com/document/d/1xPbDQp9AxGaqHF9yFdInKVIke0TwAsQQC4RVqBI1rUo/edit?usp=sharing)   
+[29.高潮]()  
+[30.交易者方程与概率]()  
+[31.波段交易与波头皮]()  
+[32.订单]()  
+[33.保护性止损]()  
+[34.实际风险]() 
+[35.加仓]() 
+[36.交易管理与获利]() 
 # 交易价格行为
-
+[1.交易价格行为模式](https://docs.google.com/document/d/1BNoFR-zFH-zZU5wZF0oOfhacjoVTqMsdWuKQOeNmlYI/edit?usp=sharing)  
+[2.交易通道和交易区间]()  
+[3.日内不同时段交易]()  
+[4.波段和剥头皮交易]()  
+[5.管理损失]()  
 
