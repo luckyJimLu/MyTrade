@@ -52,9 +52,9 @@
 [31.波段交易与波头皮]()  
 [32.订单]()  
 [33.保护性止损]()  
-[34.实际风险]() 
-[35.加仓]() 
-[36.交易管理与获利]() 
+[34.实际风险]()  
+[35.加仓]()  
+[36.交易管理与获利]()  
 # 交易价格行为
 [1.交易价格行为模式](https://docs.google.com/document/d/1BNoFR-zFH-zZU5wZF0oOfhacjoVTqMsdWuKQOeNmlYI/edit?usp=sharing)  
 [2.交易通道和交易区间]()  
