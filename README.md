@@ -52,9 +52,9 @@
 [31.波段交易与波头皮](https://docs.google.com/document/d/19G94doSZRSfavGjKCty81X6k_hzsId7DnOR8N6wfgUQ/edit?usp=sharing)  
 [32.订单](https://docs.google.com/document/d/1WVd5vPnSQnwFMoOJnKef-mryp5kvh4b1q6mBgUyTVKM/edit?usp=sharing)  
 [33.保护性止损](https://docs.google.com/document/d/1KhHgenrSvrc2w0GyfWzjmU0JZoTPdYFEIDTnf6KN3lY/edit?usp=sharing)  
-[34.实际风险](https://docs.google.com/document/d/1DYNOIb7ycS0zmf0TfZ3kwPKC_h5kgCOpTZ83M9C4Seg/edit?usp=sharing) 
-[35.加仓](https://docs.google.com/document/d/1fnPVOO5X9--YXnGLT92aDykdIiTP8nkQUf73U61BxtY/edit?usp=sharing) 
-[36.交易管理与获利](https://docs.google.com/document/d/1UE6mC2QVQ94hWUCbDu0VAn01EiNRc6G-cINDIgNuQoE/edit?usp=sharing) 
+[34.实际风险](https://docs.google.com/document/d/1DYNOIb7ycS0zmf0TfZ3kwPKC_h5kgCOpTZ83M9C4Seg/edit?usp=sharing)  
+[35.加仓](https://docs.google.com/document/d/1fnPVOO5X9--YXnGLT92aDykdIiTP8nkQUf73U61BxtY/edit?usp=sharing)  
+[36.交易管理与获利](https://docs.google.com/document/d/1UE6mC2QVQ94hWUCbDu0VAn01EiNRc6G-cINDIgNuQoE/edit?usp=sharing)  
 # 交易价格行为
 [1.交易价格行为模式](https://docs.google.com/document/d/1BNoFR-zFH-zZU5wZF0oOfhacjoVTqMsdWuKQOeNmlYI/edit?usp=sharing)  
 [2.交易通道和交易区间]()  
