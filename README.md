@@ -57,8 +57,9 @@
 [36.交易管理与获利](https://docs.google.com/document/d/1UE6mC2QVQ94hWUCbDu0VAn01EiNRc6G-cINDIgNuQoE/edit?usp=sharing)  
 # 交易价格行为
 [1.交易价格行为模式](https://docs.google.com/document/d/1BNoFR-zFH-zZU5wZF0oOfhacjoVTqMsdWuKQOeNmlYI/edit?usp=sharing)  
-[2.交易通道和交易区间]()  
-[3.日内不同时段交易]()  
-[4.波段和剥头皮交易]()  
-[5.管理损失]()  
+[2.交易通道和交易区间](https://docs.google.com/document/d/14Fn6NwkpCqu1zynF9ppSCTYcEBEHY_sBugADEyuBt9Y/edit?usp=sharing)  
+[3.日内不同时段交易](https://docs.google.com/document/d/1rTX8I8EIvCNYN5FIseGg1v1GQMAwNCI7InYTdj0x3YE/edit?usp=sharing)  
+[4.波段和剥头皮交易](https://docs.google.com/document/d/1jtwywdDYD-qt-fCMGuOWbzo0XCeie6kFu797GLkvJa8/edit?usp=sharing)  
+[5.管理损失](https://docs.google.com/document/d/18r8fak3b6jzO0DstnfumGnWA6UXLex2KZodZvVy-wB4/edit?usp=sharing)  
+
 
