@@ -19,8 +19,9 @@
 [雅虎财经](https://tw.stock.yahoo.com/)   
 [对冲基金仓位](https://hedgefollow.com/)    
 [机构投资者追踪](https://www.dataroma.com/m/home.php)    
-[Al brooks blog](https://www.brookstradingcourse.com/price-action-trading-blog/)   
+[S&P Eimni](https://www.brookstradingcourse.com/tag/sp-emini/)   
 [百科全书](https://docs.google.com/spreadsheets/d/1RDhrocZUlO76QSZOLnyeu2TbZcrqImKIVEBeuhjHWoI/edit?usp=drivesdk)  
+
 # 价格行为交易书籍
 [1.趋势](https://docs.google.com/document/d/1BKnvKOdRi90gGgASmvyTrwTmsZhuxxQ5MW7H6-EKcGE/edit?usp=sharing)  
 [2.交易区间](https://docs.google.com/document/d/1Hj0wCxLwDnYfNbXVVenUjdOKDJQUoXbKLi5Vt43Wi_E/edit?usp=sharing)  
@@ -55,6 +56,7 @@
 [34.实际风险](https://docs.google.com/document/d/1DYNOIb7ycS0zmf0TfZ3kwPKC_h5kgCOpTZ83M9C4Seg/edit?usp=sharing)  
 [35.加仓](https://docs.google.com/document/d/1fnPVOO5X9--YXnGLT92aDykdIiTP8nkQUf73U61BxtY/edit?usp=sharing)  
 [36.交易管理与获利](https://docs.google.com/document/d/1UE6mC2QVQ94hWUCbDu0VAn01EiNRc6G-cINDIgNuQoE/edit?usp=sharing)  
+
 # 交易价格行为
 [1.交易价格行为模式](https://docs.google.com/document/d/1BNoFR-zFH-zZU5wZF0oOfhacjoVTqMsdWuKQOeNmlYI/edit?usp=sharing)  
 [2.交易通道和交易区间](https://docs.google.com/document/d/14Fn6NwkpCqu1zynF9ppSCTYcEBEHY_sBugADEyuBt9Y/edit?usp=sharing)  
