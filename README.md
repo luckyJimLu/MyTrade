@@ -32,7 +32,7 @@
 [10.买卖压力](https://docs.google.com/document/d/1y8PwHdQHPUGGwDldAnxm9thQWW7_eN77ByPoQYMHPVA/edit?usp=drivesdk)  
 [11.缺口](https://docs.google.com/document/d/1a-xl20EMZCrWu_moIBBgsqWnHinxbgA3Q0XUMqgVDBE/edit?usp=drivesdk)  
 [12.市场周期](https://docs.google.com/document/d/1SuRc_rNAGxSWsep0nzfFXqfl_ReBDKHDs464OoNL870/edit?usp=drivesdk)  
-[13.always in](https://docs.google.com/document/d/1SuRc_rNAGxSWsep0nzfFXqfl_ReBDKHDs464OoNL870/edit?usp=drivesdk)  
+[13.always in](https://docs.google.com/document/d/1iflncH5muC0OOsHSSNKi_4QSXwIAXnTOTzabgCv5-Sg/edit?usp=drivesdk)  
 [14.趋势](https://docs.google.com/document/d/1thLKzxeerHZhqUfILRWokWHRVvqgqS_yAM0CEm3y6Nc/edit?usp=drivesdk)  
 [15.突破](https://docs.google.com/document/d/1FNW5pwY7k5gZdPUvyFKikQqk_qLaniRIEdCDeJCsgho/edit?usp=drivesdk)  
 [16.通道](https://docs.google.com/document/d/1xqNw1CX2lZjx-i8J1SEKRKJq4KInCSOcRaQM5OFhKKY/edit?usp=sharing)  
