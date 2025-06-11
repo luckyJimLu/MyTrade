@@ -1,7 +1,3 @@
-# 参考资料   
-[每日行情](https://www.brookstradingcourse.com/analysis/bitcoin-fade-bulls-70k/)  
-[思维导图](https://mcnqftyvfics.feishu.cn/docx/LoOsdBZp5oFFUExKHvxcjINinUe?from=from_copylink)  
-
 # 13F report
 [Berkshire Hathaway Inc](https://13f.info/manager/0001067983-berkshire-hathaway-inc)   
 [Bridgewater Associates, LP](https://13f.info/manager/0001350694-bridgewater-associates-lp)    
