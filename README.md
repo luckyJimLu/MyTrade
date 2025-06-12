@@ -15,7 +15,7 @@
 [雅虎财经](https://tw.stock.yahoo.com/)   
 [对冲基金仓位](https://hedgefollow.com/)    
 [机构投资者追踪](https://www.dataroma.com/m/home.php)    
-[S&P Eimni](https://www.brookstradingcourse.com/tag/sp-emini/)   
+[S&P Emini](https://www.brookstradingcourse.com/tag/sp-emini/)   
 [百科全书](https://docs.google.com/spreadsheets/d/1RDhrocZUlO76QSZOLnyeu2TbZcrqImKIVEBeuhjHWoI/edit?usp=drivesdk)  
 
 # 价格行为交易书籍
