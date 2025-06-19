@@ -59,5 +59,6 @@
 [3.日内不同时段交易](https://docs.google.com/document/d/1rTX8I8EIvCNYN5FIseGg1v1GQMAwNCI7InYTdj0x3YE/edit?usp=sharing)  
 [4.波段和剥头皮交易](https://docs.google.com/document/d/1jtwywdDYD-qt-fCMGuOWbzo0XCeie6kFu797GLkvJa8/edit?usp=sharing)  
 [5.管理损失](https://docs.google.com/document/d/18r8fak3b6jzO0DstnfumGnWA6UXLex2KZodZvVy-wB4/edit?usp=sharing)  
+[笔记](https://notebooklm.google.com/notebook/83240fab-24fd-4e92-bbb2-c2a2d73022bf?_gl=1*tjzn2b*_ga*MTkwMzcxODMyLjE3MzE0NjAyODI.*_ga_W0LDH41ZCB*czE3NTAyOTE2NTAkbzEkZzEkdDE3NTAyOTE2NjkkajQxJGwwJGgw)  
 
 
