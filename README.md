@@ -67,11 +67,28 @@
 [36.交易管理与获利](https://docs.google.com/document/d/1UE6mC2QVQ94hWUCbDu0VAn01EiNRc6G-cINDIgNuQoE/edit?usp=sharing)  
 
 # 交易价格行为
-[1.交易价格行为模式](https://docs.google.com/document/d/1BNoFR-zFH-zZU5wZF0oOfhacjoVTqMsdWuKQOeNmlYI/edit?usp=sharing)  
-[2.交易通道和交易区间](https://docs.google.com/document/d/14Fn6NwkpCqu1zynF9ppSCTYcEBEHY_sBugADEyuBt9Y/edit?usp=sharing)  
-[3.日内不同时段交易](https://docs.google.com/document/d/1rTX8I8EIvCNYN5FIseGg1v1GQMAwNCI7InYTdj0x3YE/edit?usp=sharing)  
-[4.波段和剥头皮交易](https://docs.google.com/document/d/1jtwywdDYD-qt-fCMGuOWbzo0XCeie6kFu797GLkvJa8/edit?usp=sharing)  
-[5.管理损失](https://docs.google.com/document/d/18r8fak3b6jzO0DstnfumGnWA6UXLex2KZodZvVy-wB4/edit?usp=sharing)  
+## 6. 交易价格行为模式
+[37. 如何交易](https://docs.google.com/document/d/1BNoFR-zFH-zZU5wZF0oOfhacjoVTqMsdWuKQOeNmlYI/edit?tab=t.0#bookmark=id.ibsy28k349w2)  
+[38. 交易MTR顶部](https://docs.google.com/document/d/1BNoFR-zFH-zZU5wZF0oOfhacjoVTqMsdWuKQOeNmlYI/edit?tab=t.eta8z333cdlt#bookmark=id.4rbwopfuh9vf)  
+[39. 交易MTR底部](https://docs.google.com/document/d/1BNoFR-zFH-zZU5wZF0oOfhacjoVTqMsdWuKQOeNmlYI/edit?tab=t.7mt3ie1uhp3d#bookmark=id.hze2y5q7fe6u)  
+[40. 趋势晚期入场](https://docs.google.com/document/d/1BNoFR-zFH-zZU5wZF0oOfhacjoVTqMsdWuKQOeNmlYI/edit?tab=t.xf2rrcz9pswb#bookmark=id.ogaf9jucdn4l)
+[41. 交易突破](https://docs.google.com/document/d/1BNoFR-zFH-zZU5wZF0oOfhacjoVTqMsdWuKQOeNmlYI/edit?tab=t.pob88a48qvfk#bookmark=id.svmdetg5c3ed)  
+[42. 交易高潮反转(失败的突破)](https://docs.google.com/document/d/1BNoFR-zFH-zZU5wZF0oOfhacjoVTqMsdWuKQOeNmlYI/edit?tab=t.wsny9jsfew0y#bookmark=id.tvnelv76pmca) 
+## 7. 交易通道和交易区间
+[43. 交易窄幅牛市通道]()  
+[44. 交易窄幅熊市通道]()  
+[45. 交易宽幅牛市通道]()  
+[46. 交易宽幅熊市通道]()  
+[47. 交易交易区间]()  
+## 8. 日内不同时段交易
+[48. 日内不同时段交易]()  
+## 9. 波段和剥头皮交易
+[49. 波段交易示例]()  
+[50. 波头皮]()  
+## 10. 管理损失] 
+[51. 因失误而失败]()  
+[52. 由盈利转为亏损]()  
+# 学习笔记 
 [笔记](https://notebooklm.google.com/notebook/83240fab-24fd-4e92-bbb2-c2a2d73022bf?original_referer=https:%2F%2Fnotebooklm.google%23&pli=1)   
 
 
