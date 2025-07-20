@@ -24,9 +24,20 @@
 [3.反转](https://docs.google.com/document/d/14WkI3n9gN4iBAdz1UYbrabPmSilLU9-GYrRZvsymdRU/edit?usp=sharing)  
 
 # 价格行为基础
+## 1. 入门
+[01.术语]()  
+[02.图表基础和价格行为]()  
+[03.外汇基础]()  
+[04.我的设置]()   
+[05.程序化交易]()  
+[06.成功交易者的特质]()  
+[07.开始]()  
+## 2. 图表分析
+[08.蜡烛图，设置和信号K线]()  
 [09.K线计数](https://docs.google.com/document/d/1Q_OCeb-HOp385e2gJRWyDfeluq277maPXn8aA_XOzo4/edit?usp=drivesdk)  
 [10.买卖压力](https://docs.google.com/document/d/1y8PwHdQHPUGGwDldAnxm9thQWW7_eN77ByPoQYMHPVA/edit?usp=drivesdk)  
 [11.缺口](https://docs.google.com/document/d/1a-xl20EMZCrWu_moIBBgsqWnHinxbgA3Q0XUMqgVDBE/edit?usp=drivesdk)  
+## 3. 市场周期
 [12.市场周期](https://docs.google.com/document/d/1SuRc_rNAGxSWsep0nzfFXqfl_ReBDKHDs464OoNL870/edit?usp=drivesdk)  
 [13.always in](https://docs.google.com/document/d/1iflncH5muC0OOsHSSNKi_4QSXwIAXnTOTzabgCv5-Sg/edit?usp=drivesdk)  
 [14.趋势](https://docs.google.com/document/d/1thLKzxeerHZhqUfILRWokWHRVvqgqS_yAM0CEm3y6Nc/edit?usp=drivesdk)  
@@ -34,6 +45,7 @@
 [16.通道](https://docs.google.com/document/d/1xqNw1CX2lZjx-i8J1SEKRKJq4KInCSOcRaQM5OFhKKY/edit?usp=sharing)  
 [17.窄幅通道和微型通道](https://docs.google.com/document/d/1Rkmo_uLxrj_Xvb9yiDft3atfvKntjk8pkoMkzN6lumg/edit?usp=sharing)  
 [18.交易区间](https://docs.google.com/document/d/1ycQfcWWhyWATf69Uc71um-7OI-loS9Hv8NUQuB9caHo/edit?usp=sharing)    
+## 4.支撑，阻力和基本模式
 [19.支撑与阻力](https://docs.google.com/document/d/1l__SAnnt7pOhtiqEwZwsdnw1dpTH6xoZTNzAr7PRu1E/edit?usp=sharing)  
 [20.测量移动](https://docs.google.com/document/d/1U8j8uj30PWC-004J4mIKOR_6E_kXsNCmcfNJfHzRXuk/edit?usp=sharing)  
 [21.反转](https://docs.google.com/document/d/1X5wHAyh7TErrv74_v-ypYvTDD6DWso6CYGKxXneOujw/edit?usp=sharing)    
@@ -45,6 +57,7 @@
 [27.头和肩](https://docs.google.com/document/d/1boeRfAdj521k7ZZUOM2Fh6B1sqi3ve5wbt0upr2QXWY/edit?usp=sharing)  
 [28.圆顶与圆底](https://docs.google.com/document/d/1xPbDQp9AxGaqHF9yFdInKVIke0TwAsQQC4RVqBI1rUo/edit?usp=sharing)   
 [29.高潮](https://docs.google.com/document/d/1qy2ujxwZTP6DkXqGPcbKtmX32nHhlVDJXJWhqGwZYJg/edit?usp=sharing)  
+## 5. 交易前的准备
 [30.交易者方程与概率](https://docs.google.com/document/d/1AGHk16TNOCtBPtV2lSDjillPoi9iDe7Y48NvlEelp-s/edit?usp=sharing)  
 [31.波段交易与波头皮](https://docs.google.com/document/d/19G94doSZRSfavGjKCty81X6k_hzsId7DnOR8N6wfgUQ/edit?usp=sharing)  
 [32.订单](https://docs.google.com/document/d/1WVd5vPnSQnwFMoOJnKef-mryp5kvh4b1q6mBgUyTVKM/edit?usp=sharing)  
