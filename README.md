@@ -89,7 +89,9 @@
 [51. 因失误而失败](https://docs.google.com/document/d/18r8fak3b6jzO0DstnfumGnWA6UXLex2KZodZvVy-wB4/edit?tab=t.0#bookmark=id.ezc905retlpd)  
 [52. 由盈利转亏损](https://docs.google.com/document/d/18r8fak3b6jzO0DstnfumGnWA6UXLex2KZodZvVy-wB4/edit?tab=t.0#bookmark=id.g2bwz7xc696j)  
 # 学习笔记 
-[笔记](https://notebooklm.google.com/notebook/83240fab-24fd-4e92-bbb2-c2a2d73022bf?original_referer=https:%2F%2Fnotebooklm.google%23&pli=1)   
+[笔记](https://notebooklm.google.com/notebook/83240fab-24fd-4e92-bbb2-c2a2d73022bf?original_referer=https:%2F%2Fnotebooklm.google%23&pli=1) 
+[PineScript脚本](https://www.tradingview.com/pine-script-docs/)  
+  
 
 
 
