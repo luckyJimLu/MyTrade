@@ -1,11 +1,13 @@
+// This Pine Script® code is subject to the terms of the Mozilla Public License 2.0 at https://mozilla.org/MPL/2.0/
+// © lujingnwpu
 //@version=5
 indicator("市场特征识别器 (Market Character Identifier)", shorttitle="MCI", overlay=true)
 
 // --- 通用输入参数 ---
-len_avg_body = input.int(20, "平均K线实体长度周期")
-len_avg_vol = input.int(20, "平均交易量周期")
-swing_len = input.int(10, "波段高低点周期")
-context_range_len = input.int(30, "交易区间检测周期")
+len_avg_body = input.int(20, "平均K线实体长度周期", minval=1, maxval=100, group="基础参数")
+len_avg_vol = input.int(20, "平均交易量周期", minval=1, maxval=100, group="基础参数")
+swing_len = input.int(10, "波段高低点周期", minval=5, maxval=50, group="基础参数")
+context_range_len = input.int(30, "交易区间检测周期", minval=10, maxval=200, group="基础参数")
 
 // --- 基础计算 ---
 avg_body_size = ta.ema(math.abs(close - open), len_avg_body)
@@ -17,7 +19,7 @@ swing_high = ta.highest(high, swing_len)[1]
 swing_low = ta.lowest(low, swing_len)[1]
 
 // --- 强弱度量化函数 ---
-calc_strength(float body_size, float volume_ratio, float breakout_size, float follow_through) =>
+method calc_strength(float body_size, float volume_ratio, float breakout_size, float follow_through) =>
     float strength = 0.0
     
     // 实体强度 (0-25分)
@@ -35,26 +37,26 @@ calc_strength(float body_size, float volume_ratio, float breakout_size, float fo
     strength
 
 // --- 市场特征识别函数 ---
-identify_character() =>
+method identify_character(float src_open, float src_close, float src_high, float src_low, float src_vol) =>
     float bull_strength = 0.0
     float bear_strength = 0.0
     
     // 计算牛市特征
-    bool is_bull = close > open
-    float bull_body = close - open
-    float bull_volume_ratio = volume / avg_volume
-    float bull_breakout = high - swing_high
-    float bull_follow = close > close[1] ? 1.0 : 0.0
+    bool is_bull = src_close > src_open
+    float bull_body = src_close - src_open
+    float bull_volume_ratio = src_vol / avg_volume
+    float bull_breakout = src_high - swing_high
+    float bull_follow = src_close > src_close[1] ? 1.0 : 0.0
     
     if is_bull
         bull_strength := calc_strength(bull_body, bull_volume_ratio, bull_breakout, bull_follow)
     
     // 计算熊市特征
-    bool is_bear = open > close
-    float bear_body = open - close
-    float bear_volume_ratio = volume / avg_volume
-    float bear_breakout = swing_low - low
-    float bear_follow = close < close[1] ? 1.0 : 0.0
+    bool is_bear = src_open > src_close
+    float bear_body = src_open - src_close
+    float bear_volume_ratio = src_vol / avg_volume
+    float bear_breakout = swing_low - src_low
+    float bear_follow = src_close < src_close[1] ? 1.0 : 0.0
     
     if is_bear
         bear_strength := calc_strength(bear_body, bear_volume_ratio, bear_breakout, bear_follow)
@@ -62,11 +64,11 @@ identify_character() =>
     [bull_strength, bear_strength]
 
 // --- 执行特征识别 ---
-[bull_str, bear_str] = identify_character()
+[bull_str, bear_str] = identify_character(open, close, high, low, volume)
 
 // --- 定义市场状态 ---
-string market_state = na
-color state_color = na
+var string market_state = na
+var color state_color = na
 
 if bull_str > 75 and bull_str > bear_str
     market_state := "强势牛市"
@@ -84,31 +86,27 @@ else
     market_state := "震荡市"
     state_color := color.gray
 
+int state_num = switch market_state
+    "强势牛市" => 1
+    "弱势牛市" => 2
+    "强势熊市" => 3
+    "弱势熊市" => 4
+    "震荡市" => 5
+    => na
 // --- 绘制标识 ---
 // 在K线顶部显示市场状态
-label market_label = label.new(
-    bar_index, high, 
-    text=market_state + "\n强度: " + str.tostring(math.max(bull_str, bear_str), "#.##"),
-    color=state_color,
-    style=label.style_label_down,
-    textcolor=color.white
-    )
-label.delete(market_label[1])
+var label state_label = na
+// 检测状态变化
+bool state_changed = ta.change(state_num) != 0
 
-// 添加背景颜色
-bgcolor(state_color, transp=85)
-
-// --- 绘制强度指示器 ---
-plot(bull_str, "牛市强度", color=color.green, style=plot.style_columns, transp=60)
-plot(bear_str, "熊市强度", color=color.red, style=plot.style_columns, transp=60)
+if barstate.islast
+    if not na(state_label)
+        label.delete(state_label)
+    state_label := label.new(x=bar_index, y=high, text=market_state + "\n强度: " + str.tostring(math.max(bull_str, bear_str), "#.##"), color=state_color, style=label.style_label_down, textcolor=color.white, size=size.normal)
 
 // --- 添加趋势线 ---
-var line trend_line = na
-if ta.change(market_state)
-    line.delete(trend_line)
-    trend_line := line.new(
-        bar_index[10], close[10],
-        bar_index, close,
-        color=state_color,
-        width=2
-        )
+var line trend_line = line.new(na, na, na, na, color=color.gray, width=2)
+
+if state_changed
+    trend_line.delete()
+    trend_line := line.new(x1=bar_index[10], y1=close[10], x2=bar_index, y2=close, color=state_color, width=2, extend=extend.none)
