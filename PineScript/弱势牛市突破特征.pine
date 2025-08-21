@@ -1,0 +1,87 @@
+//@version=5
+indicator("弱势牛市突破识别器 (Weak Bull Breakout Identifier)", shorttitle="WBB", overlay=true)
+
+// --- 输入参数 (Inputs) ---
+len_avg_body = input.int(20, title="平均K线实体长度周期")
+swing_high_len = input.int(10, title="前期波段高点周期")
+marginal_breakout_ticks = input.int(5, title="微弱突破的Tick数量")
+context_range_len = input.int(30, title="交易区间检测周期")
+
+// --- 核心计算 (Core Calculations) ---
+// 计算近期平均K线实体大小和真实波幅(ATR)
+avg_body_size = ta.ema(math.abs(close - open), len_avg_body)
+atr = ta.atr(14)
+
+// 获取前期波段高点
+prev_swing_high = ta.highest(high, swing_high_len)[1]
+
+
+// --- 规则评估 (Evaluating the Rules) ---
+// 我们将评估每一个K线，看它是否是一个弱势突破的“设置”的一部分。
+// 信号将在形态确认后出现，因此我们会向后看1到2根K线。
+
+// 规则1 & 12: 突破K线(bar[2])的特征
+// 是一根看涨K线，并突破了前期高点
+bool is_bull_breakout_bar = close[2] > open[2] and high[2] > prev_swing_high[2]
+
+// 实体较小或为平均尺寸
+float breakout_body_size = close[2] - open[2]
+bool is_small_or_avg_body = breakout_body_size <= avg_body_size[2] * 1.2
+
+// 上影线很长
+float breakout_upper_wick = high[2] - close[2]
+bool has_large_upper_wick = breakout_upper_wick > breakout_body_size * 0.75
+
+// 规则 11 & 13: 突破是微弱的
+float breakout_distance = high[2] - prev_swing_high[2]
+bool is_marginal_breakout = breakout_distance <= syminfo.mintick * marginal_breakout_ticks
+bool scalper_profit_fail = breakout_distance < atr[2] * 0.25 // 突破距离甚至小于ATR的25%，难以获利
+
+// 规则 2 & 6: 紧随其后的K线(bar[1])是熊市反转
+bool is_bear_reversal_next = close[1] < open[1]
+// 是一个熊市反转K线或熊市内包K线
+bool is_inside_bar_next = high[1] < high[2] and low[1] > low[2]
+bool is_reversal_or_inside = is_bear_reversal_next and (ta.crossunder(close, open) or is_inside_bar_next)
+// 收盘价接近其最低点
+bool reversal_closes_near_low = (close[1] - low[1]) < (high[1] - low[1]) * 0.25 // 收盘于K线范围的底部25%
+// 实体大小不容忽视
+bool reversal_body_is_decent = (open[1] - close[1]) > avg_body_size[1] * 0.7 // 实体至少是平均大小的70%
+
+// 规则 7: 后续K线(bar[1])的低点低于突破K线(bar[2])之前K线(bar[3])的高点
+bool negates_micro_gap = low[1] < high[3]
+
+// 规则 3 & 4: 整体背景不利于突破
+// 检查市场是否在交易区间内（使用ATR与区间范围进行比较）
+float range_high = ta.highest(high, context_range_len)[1]
+float range_low = ta.lowest(low, context_range_len)[1]
+bool is_in_trading_range = (range_high - range_low) < atr[1] * 5 // 30根K线的范围小于5倍ATR，可能为区间震荡
+
+// --- 组合所有条件 (Combining All Conditions) ---
+// 我们寻找一个同时满足多个弱点条件的组合
+// 条件1: 必须有一个看涨突破 (在2根K线前)
+bool cond1 = is_bull_breakout_bar
+
+// 条件2: 突破K线本身很弱 (小实体, 长上影线, 突破幅度小)
+bool cond2 = is_small_or_avg_body and has_large_upper_wick and is_marginal_breakout
+
+// 条件3: 紧接着出现强烈的看跌反转 (在1根K线前)
+bool cond3 = is_reversal_or_inside and reversal_closes_near_low and reversal_body_is_decent
+
+// 条件4: 确认性的价格行为 (例如否定了微观缺口)
+bool cond4 = negates_micro_gap
+
+// 条件5: 背景环境支持失败 (例如处于震荡市)
+bool cond5 = is_in_trading_range
+
+
+// 最终信号: 当突破K线很弱(cond2)，并被立即反转(cond3)时，我们发出信号。
+// 将背景(cond5)和确认性行为(cond4)作为加分项。
+bool weak_bull_breakout_signal = cond1 and cond2 and cond3 and (cond4 or cond5)
+
+
+// --- 在图表上绘制信号 (Plotting on the Chart) ---
+// 在反转K线上方标记信号，因为它确认了弱势突破
+plotshape(series=weak_bull_breakout_signal[1], title="弱势牛市突破", location=location.abovebar, color=color.new(color.red, 0), style=shape.triangledown, size=size.normal)
+
+// 添加背景颜色以突出显示
+bgcolor(weak_bull_breakout_signal[1] ? color.new(color.red, 85) : na)

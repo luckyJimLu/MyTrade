@@ -1,0 +1,105 @@
+//@version=5
+indicator("强劲牛市突破识别器 (Strong Bull Breakout Identifier)", shorttitle="SBB", overlay=true)
+
+// --- 输入参数 (Inputs) ---
+// 用户可以根据自己的偏好调整这些参数
+len_avg_body = input.int(20, title="平均K线实体长度周期")
+len_avg_vol = input.int(20, title="平均交易量周期")
+vol_multiplier = input.float(10.0, title="交易量倍数")
+ma_len = input.int(50, title="移动平均线周期")
+swing_high_len = input.int(10, title="前期波段高点周期")
+follow_through_bars = input.int(3, title="后续确认K线数量")
+pullback_bars = input.int(2, title="最大回调K线数量")
+reversed_bars_count = input.int(10, title="需要反转的K线数量")
+
+// --- 核心计算 (Core Calculations) ---
+// 计算近期平均K线实体大小和交易量
+avg_body_size = ta.ema(high - low, len_avg_body)
+avg_volume = ta.ema(volume, len_avg_vol)
+
+// 获取移动平均线和前期波段高点
+ma_value = ta.sma(close, ma_len)
+prev_swing_high = ta.highest(high, swing_high_len)[1]
+
+// --- 突破K线的条件 (Breakout Bar Conditions) ---
+// 1. K线是看涨的 (收盘价 > 开盘价)
+is_bull_bar = close > open
+
+// 2. 突破K线有一个大的牛市趋势实体
+body_size = close - open
+is_large_body = body_size > avg_body_size * 1.5 // 实体大于近期平均实体的1.5倍
+
+// 3. 突破K线的影线很小
+upper_wick = high - close
+lower_wick = open - low
+has_small_wicks = upper_wick < body_size * 0.25 and lower_wick < body_size * 0.25 // 影线小于实体的25%
+
+// 4. 交易量激增
+is_volume_spike = volume > avg_volume * vol_multiplier
+
+// 5. 突破了多个阻力位
+breaks_ma = close > ma_value
+breaks_swing_high = close > prev_swing_high
+
+// 6. 突破K线收盘价反转了多个近期的收盘价和最高价
+reversed_closes = 0
+reversed_highs = 0
+for i = 1 to reversed_bars_count
+    if close > close[i]
+        reversed_closes := reversed_closes + 1
+    if high > high[i]
+        reversed_highs := reversed_highs + 1
+is_reversing_many_bars = reversed_closes >= reversed_bars_count * 0.8 // 收盘价高于过去80%的K线
+
+// --- 后续K线和回调的条件 (Follow-Through & Pullback Conditions) ---
+// 7. 后续K线持续看涨
+is_strong_follow_through = true
+for i = 1 to follow_through_bars
+    // 必须是看涨K线，且收盘价在K线中点之上
+    if not (close[i] > open[i] and close[i] > (high[i] + low[i]) / 2)
+        is_strong_follow_through := false
+        break
+
+// 8. 首次回调是温和的
+first_pullback_is_weak = true
+// 这个逻辑比较复杂，我们简化为检查突破后短期内没有出现强烈的看跌反转
+// 这里我们检查突破后的 `follow_through_bars` 周期内，没有出现大的熊市K线
+for i = 1 to follow_through_bars
+    // 如果出现一根实体大于平均大小的熊市K线，则认为回调过强
+    if open[i] > close[i] and (open[i] - close[i]) > avg_body_size
+        first_pullback_is_weak := false
+        break
+
+// --- 微观缺口 (Micro Gap) ---
+// 9. 出现微观缺口
+// 当前看涨K线的后一根K线的低点 > 当前K线的前一根K线的高点
+// 为了简化，我们检查突破K线(bar[1])与其前一根K线(bar[2])之间是否存在缺口
+// bar[0]是当前正在形成的K线
+micro_gap_exists = low[0] >= high[2] and is_bull_bar[1]
+
+// --- 组合所有条件 (Combining All Conditions) ---
+// 将所有主要条件组合在一起来确定一个“强劲牛市突破”信号
+// 我们将这些条件分为“必须”和“加分”项
+// 必须条件:
+bool breakout_must_haves = is_bull_bar and is_large_body and is_volume_spike and breaks_ma and breaks_swing_high and is_reversing_many_bars
+
+// 加分条件 (越多越好):
+int score = 0
+if has_small_wicks
+    score := score + 1
+if is_strong_follow_through
+    score := score + 1
+if first_pullback_is_weak
+    score := score + 1
+if micro_gap_exists[1] // 检查突破发生时是否存在微观缺口
+    score := score + 1
+
+// 最终确认信号 (Final Confirmation Signal)
+// 当必须条件满足，并且至少有两个加分项时，我们标记这个突破
+strong_bull_breakout_signal = breakout_must_haves[follow_through_bars] and score[follow_through_bars] >= 2
+
+// --- 在图表上绘制信号 (Plotting on the Chart) ---
+plotshape(series=strong_bull_breakout_signal, title="强劲牛市突破", location=location.belowbar, color=color.new(color.green, 0), style=shape.triangleup, size=size.large)
+
+// 添加背景颜色以突出显示突破区域
+bgcolor(strong_bull_breakout_signal ? color.new(color.green, 85) : na)
