@@ -1,6 +1,6 @@
 // This Pine Script® code is subject to the terms of the Mozilla Public License 2.0 at https://mozilla.org/MPL/2.0/
 // © lujingnwpu
-//@version=5
+//@version=6
 indicator("市场特征识别器 (Market Character Identifier)", shorttitle="MCI", overlay=true)
 
 // --- 通用输入参数 ---
